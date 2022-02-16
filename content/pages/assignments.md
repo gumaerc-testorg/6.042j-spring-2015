@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 8da72fce-08fe-c8a5-71c1-e09779e12577
 ---
@@ -35,7 +38,7 @@ ASSIGNMENTS
 {{< tdopen >}}
 [1.1 Intro to Proofs]({{< baseurl >}}/pages/proofs/tp1-1)
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="4" >}}
 [Problem Set 1 (PDF)]({{< baseurl >}}/resources/mit6_042js15_ps1)
 {{< tdclose >}}
 
@@ -74,7 +77,7 @@ ASSIGNMENTS
 {{< tdopen >}}
 [1.5 Quantifiers & Predicate Logic]({{< baseurl >}}/pages/proofs/tp3-1)
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 [Problem Set 2 (PDF)]({{< baseurl >}}/resources/mit6_042js15_ps2)
 {{< tdclose >}}
 
@@ -95,7 +98,7 @@ ASSIGNMENTS
 {{< tdopen >}}
 [1.7 Binary Relations]({{< baseurl >}}/pages/proofs/tp3-3)
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 [Problem Set 3 (PDF)]({{< baseurl >}}/resources/mit6_042js15_ps3)
 {{< tdclose >}}
 
@@ -116,7 +119,7 @@ ASSIGNMENTS
 {{< tdopen >}}
 [1.9 State Machines - Invariants]({{< baseurl >}}/pages/proofs/tp4-2)
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 [Problem Set 4 (PDF)]({{< baseurl >}}/resources/mit6_042js15_ps4)
 {{< tdclose >}}
 
@@ -152,7 +155,7 @@ ASSIGNMENTS
 {{< tdopen >}}
 [2.1 GCDs]({{< baseurl >}}/pages/structures/tp5-1)
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 [Problem Set 5 (PDF)]({{< baseurl >}}/resources/mit6_042js15_ps5)
 {{< tdclose >}}
 
@@ -182,7 +185,7 @@ ASSIGNMENTS
 {{< tdopen >}}
 [2.4 RSA Encryption]({{< baseurl >}}/pages/structures/tp6-2)
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 [Problem Set 6 (PDF)]({{< baseurl >}}/resources/mit6_042js15_ps6)
 {{< tdclose >}}
 
@@ -203,7 +206,7 @@ ASSIGNMENTS
 {{< tdopen >}}
 [2.6 Directed Acyclic Graphs (DAGs) & Scheduling]({{< baseurl >}}/pages/structures/tp7-1)
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 [Problem Set 7 (PDF)]({{< baseurl >}}/resources/mit6_042js15_ps7)
 {{< tdclose >}}
 
@@ -233,7 +236,7 @@ ASSIGNMENTS
 {{< tdopen >}}
 [2.9 Coloring & Connectivity]({{< baseurl >}}/pages/structures/tp7-3)
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 [Problem Set 8 (PDF)]({{< baseurl >}}/resources/mit6_042js15_ps8)
 {{< tdclose >}}
 
@@ -269,7 +272,7 @@ ASSIGNMENTS
 {{< tdopen >}}
 [3.1 Sums & Products]({{< baseurl >}}/pages/counting/tp8-2)
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 [Problem Set 9 (PDF)]({{< baseurl >}}/resources/mit6_042js15_ps9)
 {{< tdclose >}}
 
@@ -290,7 +293,7 @@ ASSIGNMENTS
 {{< tdopen >}}
 [3.3 Counting with Bijections]({{< baseurl >}}/pages/counting/tp9-1)
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 [Problem Set 10 (PDF)]({{< baseurl >}}/resources/mit6_042js15_ps10)
 {{< tdclose >}}
 
@@ -326,7 +329,7 @@ ASSIGNMENTS
 {{< tdopen >}}
 [4.1 Intro to Discrete Probability]({{< baseurl >}}/pages/probability/tp11-2)
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 [Problem Set 11 (PDF)]({{< baseurl >}}/resources/mit6_042js15_ps11)
 {{< tdclose >}}
 
@@ -347,7 +350,7 @@ ASSIGNMENTS
 {{< tdopen >}}
 [4.3 Independence & Causality]({{< baseurl >}}/pages/probability/tp12-2)
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 [Problem Set 12 (PDF)]({{< baseurl >}}/resources/mit6_042js15_ps12)
 {{< tdclose >}}
 
@@ -377,7 +380,7 @@ ASSIGNMENTS
 {{< tdopen >}}
 [4.6 Deviation: Markov & Chebyshev Bounds]({{< baseurl >}}/pages/probability/tp13-2)
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 No Assignment
 {{< tdclose >}}
 

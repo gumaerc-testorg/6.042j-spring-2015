@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 1.10 Recursive Definition
+parent_type: CourseSection
 parent_uid: dc6ecd4f-10b9-4f9f-9744-a385e4bab210
 title: 1.10 Recursive Definition
 uid: 85a5d448-503d-ca4e-ab98-376d8f3a64dc

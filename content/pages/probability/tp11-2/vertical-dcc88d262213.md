@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 4.1 Intro to Discrete Probability
+parent_type: CourseSection
 parent_uid: 4414c612-ae42-4c73-7466-f4715f85e319
 title: 4.1 Intro to Discrete Probability
 uid: ad83e19e-58d2-92c4-85c4-b3cec4bca701

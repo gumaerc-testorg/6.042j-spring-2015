@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: 'Unit 2: Structures'
 uid: 20b0a2b7-a262-cb94-efd4-4e9e00511cee
 ---

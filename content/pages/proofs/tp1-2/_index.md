@@ -1,12 +1,15 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Unit 1: Proofs'
+parent_type: CourseSection
 parent_uid: 95af5c7b-87a2-e157-90a7-ad18331a125f
 title: 1.2 Proof Methods
 uid: 604f8e07-2680-3e77-8aac-7885f0f6eaf0
 ---
 
-*   [<Modus Ponens]({{< baseurl >}}/pages/proofs/tp1-1/vertical-acfe05b95a4e)
+*   [\<Modus Ponens]({{< baseurl >}}/pages/proofs/tp1-1/vertical-acfe05b95a4e)
 *   [1.2.1Proof By Contradiction: Video]({{< baseurl >}}/pages/proofs/tp1-2)
 *   [1.2.2Proof By Contradiction]({{< baseurl >}}/pages/proofs/tp1-2/vertical-2835de2f30b6)
 *   [1.2.3Proof By Cases: Video]({{< baseurl >}}/pages/proofs/tp1-2/vertical-f502ca28cf17)

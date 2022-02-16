@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 4.5 Expectation
+parent_type: CourseSection
 parent_uid: 025c498f-3f5e-1c53-924f-7e40eb06a220
 title: 4.5 Expectation
 uid: 58e8b630-1c49-1570-2379-740ba37f4560

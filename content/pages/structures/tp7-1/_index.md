@@ -1,12 +1,15 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Unit 2: Structures'
+parent_type: CourseSection
 parent_uid: 20b0a2b7-a262-cb94-efd4-4e9e00511cee
 title: 2.6 Directed Acyclic Graphs (DAGs) & Scheduling
 uid: 30a03ec2-6577-751d-fb8c-5b6d0813ce12
 ---
 
-*   [<Counting Paths]({{< baseurl >}}/pages/structures/tp6-3/counting-paths)
+*   [\<Counting Paths]({{< baseurl >}}/pages/structures/tp6-3/counting-paths)
 *   [2.6.1DAGs: Video]({{< baseurl >}}/pages/structures/tp7-1)
 *   [2.6.2DAGs]({{< baseurl >}}/pages/structures/tp7-1/vertical-dcde59c77eab)
 *   [2.6.3Scheduling: Video]({{< baseurl >}}/pages/structures/tp7-1/vertical-0b187f2dedb6)

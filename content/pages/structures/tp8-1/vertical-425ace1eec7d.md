@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 2.10 Trees
+parent_type: CourseSection
 parent_uid: cbeb9c37-cb9c-a67c-cf21-6c0b8aeab325
 title: 2.10 Trees
 uid: 7d4e917a-f9ec-f1c5-28b0-1cc40169cd5a

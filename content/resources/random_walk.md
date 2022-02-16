@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: 'Image: '
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-042j-mathematics-for-computer-science-spring-2015/eef3a70eadd70bd3b01cc631cbdc609f_random_walk.jpg
+file: /media/courses/6-042j-mathematics-for-computer-science-spring-2015/eef3a70eadd70bd3b01cc631cbdc609f_random_walk.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: 4.8 Random Walks & Pagerank
+parent_type: CourseSection
 resourcetype: Image
 title: random_walk.jpg
 uid: eef3a70e-add7-0bd3-b01c-c631cbdc609f

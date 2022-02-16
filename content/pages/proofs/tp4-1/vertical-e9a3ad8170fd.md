@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 1.8  Induction
+parent_type: CourseSection
 parent_uid: 5179d7c0-c3f7-a60a-33d7-c24d9d219172
 title: 1.8  Induction
 uid: 6d413e3e-b440-3af3-a219-81e485215c1b

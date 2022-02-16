@@ -1,12 +1,15 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Unit 3: Counting'
+parent_type: CourseSection
 parent_uid: 39106ddf-6e81-10d0-b3ef-0b61eb07512d
 title: 3.4 Repetitions & Binomial Theorem
 uid: c8103e15-328b-9991-c077-4e6c0892ba9f
 ---
 
-*   [<Counting Functions]({{< baseurl >}}/pages/counting/tp9-1/vertical-8ad5a4d769b7)
+*   [\<Counting Functions]({{< baseurl >}}/pages/counting/tp9-1/vertical-8ad5a4d769b7)
 *   [3.4.1Generalized Counting Rules: Video]({{< baseurl >}}/pages/counting/tp9-2)
 *   [3.4.2Choosing Integers]({{< baseurl >}}/pages/counting/tp9-2/vertical-c197c8335ccf)
 *   [3.4.3Two Pair Poker Hands: Video]({{< baseurl >}}/pages/counting/tp9-2/vertical-cb7317c8f4ec)

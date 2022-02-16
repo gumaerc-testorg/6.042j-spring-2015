@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 4.2 Conditional Probability
+parent_type: CourseSection
 parent_uid: 79ebde2b-537e-9e26-dc39-d5d2e1c8f1d9
 title: 4.2 Conditional Probability
 uid: 25e5063b-a18a-a5ae-b002-2b8cfa0a76b9

@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 1.7 Binary Relations
+parent_type: CourseSection
 parent_uid: dc4329a2-0693-5f01-be73-cf0b227cc3ed
 title: 1.7 Binary Relations
 uid: a2bc4d93-1390-ac8a-5707-505bd40cf179

@@ -1,12 +1,15 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 1.6  Sets
+parent_type: CourseSection
 parent_uid: ffb87b8b-4f73-c33b-d6b3-5402fc830d03
 title: 1.6  Sets
 uid: 8fbc64a8-ba83-84ea-bf1b-9b8065b97644
 ---
 
-*   [<Sets Operations: Video]({{< baseurl >}}/pages/proofs/tp3-2/vertical-822cbc94ed34)
+*   [\<Sets Operations: Video]({{< baseurl >}}/pages/proofs/tp3-2/vertical-822cbc94ed34)
 *   [1.6.1Sets Definitions: Video]({{< baseurl >}}/pages/proofs/tp3-2)
 *   [1.6.2Sets Operations: Video]({{< baseurl >}}/pages/proofs/tp3-2/vertical-822cbc94ed34)
 *   [1.6.3Difference]({{< baseurl >}}/pages/proofs/tp3-2/vertical-049c9a1dd957)

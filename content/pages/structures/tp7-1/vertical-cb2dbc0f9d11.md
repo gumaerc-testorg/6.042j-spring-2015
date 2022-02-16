@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 2.6 Directed Acyclic Graphs (DAGs) & Scheduling
+parent_type: CourseSection
 parent_uid: 30a03ec2-6577-751d-fb8c-5b6d0813ce12
 title: 2.6 Directed Acyclic Graphs (DAGs) & Scheduling
 uid: b45275d3-3f15-3918-1675-e5af6c1f8e3f

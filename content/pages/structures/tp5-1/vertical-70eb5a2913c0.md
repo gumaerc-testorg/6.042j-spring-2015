@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 2.1  GCDs
+parent_type: CourseSection
 parent_uid: 40569305-3755-e5d6-fb1b-1e2592fa311e
 title: 2.1  GCDs
 uid: 41a759c3-dff6-a35a-6234-fe2adb65182d

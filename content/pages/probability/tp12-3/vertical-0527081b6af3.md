@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 4.4 Random Variables, Density Functions
+parent_type: CourseSection
 parent_uid: 5d000a4e-2a13-daae-80b1-331e90d2f442
 title: 4.4 Random Variables, Density Functions
 uid: 078ca3cc-5e2c-6b4d-b2f1-527afea414db

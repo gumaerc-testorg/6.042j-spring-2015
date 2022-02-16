@@ -1,12 +1,15 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 2.7 Partial Orders and Equivalence
+parent_type: CourseSection
 parent_uid: e3bcfae1-ff3e-4391-a255-e7aa0a942756
 title: 2.7 Partial Orders and Equivalence
 uid: 46dc2fd4-9954-8c08-b14b-da4cb29a9728
 ---
 
-*   [<Representing Partial Orders As Subset Relations: Video]({{< baseurl >}}/pages/structures/partial-orders-and-equivalence/vertical-a604c5db7bb5)
+*   [\<Representing Partial Orders As Subset Relations: Video]({{< baseurl >}}/pages/structures/partial-orders-and-equivalence/vertical-a604c5db7bb5)
 *   [2.7.1Partial Orders: Video]({{< baseurl >}}/pages/structures/partial-orders-and-equivalence)
 *   [2.7.2Population Partial Order]({{< baseurl >}}/pages/structures/partial-orders-and-equivalence/vertical-f4ebf555fc18)
 *   [2.7.3Representing Partial Orders As Subset Relations: Video]({{< baseurl >}}/pages/structures/partial-orders-and-equivalence/vertical-a604c5db7bb5)

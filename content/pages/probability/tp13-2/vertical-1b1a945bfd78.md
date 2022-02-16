@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: '4.6 Deviation: Markov & Chebyshev Bounds'
+parent_type: CourseSection
 parent_uid: f195ee84-9b9a-ee3c-cf61-f90bea10cebb
 title: '4.6 Deviation: Markov & Chebyshev Bounds'
 uid: 719c67c2-0cf1-8d4d-1d43-176b0d540c1b

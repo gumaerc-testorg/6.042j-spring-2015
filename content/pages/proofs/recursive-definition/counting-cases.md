@@ -1,12 +1,15 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 1.10 Recursive Definition
+parent_type: CourseSection
 parent_uid: dc6ecd4f-10b9-4f9f-9744-a385e4bab210
 title: 1.10 Recursive Definition
 uid: 1674b24a-caef-1bd9-9db9-d98134454ea8
 ---
 
-*   [<Structural Induction: Definition]({{< baseurl >}}/pages/proofs/recursive-definition/structural-induction-definition)
+*   [\<Structural Induction: Definition]({{< baseurl >}}/pages/proofs/recursive-definition/structural-induction-definition)
 *   [1.10.1Recursive Data: Video]({{< baseurl >}}/pages/proofs/recursive-definition)
 *   [1.10.2Matching Parentheses]({{< baseurl >}}/pages/proofs/recursive-definition/matching-parentheses)
 *   [1.10.3Functions of F18]({{< baseurl >}}/pages/proofs/recursive-definition/functions-of-f18)

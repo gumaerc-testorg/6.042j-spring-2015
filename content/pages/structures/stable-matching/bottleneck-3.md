@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 2.11 Stable Matching
+parent_type: CourseSection
 parent_uid: 47305688-cc38-9e2f-9dc3-019a395b3b37
 title: 2.11 Stable Matching
 uid: 6d9cca92-ea33-3992-032e-60c83034c32a

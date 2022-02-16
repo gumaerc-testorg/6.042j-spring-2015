@@ -1,12 +1,15 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: '4.6 Deviation: Markov & Chebyshev Bounds'
+parent_type: CourseSection
 parent_uid: f195ee84-9b9a-ee3c-cf61-f90bea10cebb
 title: '4.6 Deviation: Markov & Chebyshev Bounds'
 uid: 3371149b-256c-64a8-3ee6-58774d2d4987
 ---
 
-*   [<Markov Bound]({{< baseurl >}}/pages/probability/tp13-2/vertical-ecd276750fa8)
+*   [\<Markov Bound]({{< baseurl >}}/pages/probability/tp13-2/vertical-ecd276750fa8)
 *   [4.6.1Deviation From The Mean: Video]({{< baseurl >}}/pages/probability/tp13-2)
 *   [4.6.2Don't Expect the Expectation]({{< baseurl >}}/pages/probability/tp13-2/vertical-18d81b8ca2e1)
 *   [4.6.3Markov Bounds: Video]({{< baseurl >}}/pages/probability/tp13-2/vertical-8307292b80cb)

@@ -1,12 +1,15 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 1.7 Binary Relations
+parent_type: CourseSection
 parent_uid: dc4329a2-0693-5f01-be73-cf0b227cc3ed
 title: 1.7 Binary Relations
 uid: a198de1b-f52d-c4d4-39d3-a3b7ee2baa4a
 ---
 
-*   [<A inj B]({{< baseurl >}}/pages/proofs/tp3-3/vertical-faefc8383410)
+*   [\<A inj B]({{< baseurl >}}/pages/proofs/tp3-3/vertical-faefc8383410)
 *   [1.7.1Relations: Video]({{< baseurl >}}/pages/proofs/tp3-3)
 *   [1.7.2Range of a Relation]({{< baseurl >}}/pages/proofs/tp3-3/vertical-70020f5936fa)
 *   [1.7.3Relational Mappings: Video]({{< baseurl >}}/pages/proofs/tp3-3/vertical-360a6e85d0f4)

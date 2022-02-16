@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 3.1 Sums & Products
+parent_type: CourseSection
 parent_uid: 93998ab0-0443-52e8-5efc-b877380e8e28
 title: 3.1 Sums & Products
 uid: 0b9a80ad-69f1-f86d-f6c0-ddf0b4f64721

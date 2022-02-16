@@ -2,8 +2,12 @@
 content_type: resource
 description: 'This resource contains information regarding mathematics for computer
   science: In-class questions.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-042j-mathematics-for-computer-science-spring-2015/22ec5ec905132c7f86e4116a71b39dca_MIT6_042JS15_cp7f.pdf
+file: /media/courses/6-042j-mathematics-for-computer-science-spring-2015/22ec5ec905132c7f86e4116a71b39dca_MIT6_042JS15_cp7f.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: In-Class Questions
+parent_type: CourseSection
 resourcetype: Document
 title: Session 7f Questions
 uid: 22ec5ec9-0513-2c7f-86e4-116a71b39dca

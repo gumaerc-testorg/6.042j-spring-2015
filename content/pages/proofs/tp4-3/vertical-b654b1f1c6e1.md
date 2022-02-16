@@ -1,12 +1,15 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 1.11  Infinite Sets
+parent_type: CourseSection
 parent_uid: 7b14af4d-9845-97ad-4109-98ecc9fb9f71
 title: 1.11  Infinite Sets
 uid: 2b923648-e33a-cab1-5b80-2e2ba689daec
 ---
 
-*   [<Countable and Uncountable Sets]({{< baseurl >}}/pages/proofs/tp4-3/vertical-3077e4479731)
+*   [\<Countable and Uncountable Sets]({{< baseurl >}}/pages/proofs/tp4-3/vertical-3077e4479731)
 *   [1.11.1Cardinality: Video]({{< baseurl >}}/pages/proofs/tp4-3)
 *   [1.11.2Cantor, Schroeder-Bernstein]({{< baseurl >}}/pages/proofs/tp4-3/vertical-e7c2a3883170)
 *   [1.11.3Countable Sets: Video]({{< baseurl >}}/pages/proofs/tp4-3/countable-sets-video)

@@ -1,12 +1,15 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Unit 1: Proofs'
+parent_type: CourseSection
 parent_uid: 95af5c7b-87a2-e157-90a7-ad18331a125f
 title: 1.5 Quantifiers & Predicate Logic
 uid: 101f2dc9-8b98-78a0-6c0f-57e750015c84
 ---
 
-*   [<Logical Connectives]({{< baseurl >}}/pages/proofs/tp2-2/vertical-a28e46f96fa1)
+*   [\<Logical Connectives]({{< baseurl >}}/pages/proofs/tp2-2/vertical-a28e46f96fa1)
 *   [1.5.1Predicate Logic 1: Video]({{< baseurl >}}/pages/proofs/tp3-1)
 *   [1.5.2Predicate Logic 2: Video]({{< baseurl >}}/pages/proofs/tp3-1/vertical-7b4a11771cb1)
 *   [1.5.3Satisfiability]({{< baseurl >}}/pages/proofs/tp3-1/vertical-071a48267f00)

@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 1.9  State Machines - Invariants
+parent_type: CourseSection
 parent_uid: 470546ac-8124-6c93-8505-a0f7571765aa
 title: 1.9  State Machines - Invariants
 uid: 44f9694e-dcc7-c2cd-211f-ed7a017efdc6

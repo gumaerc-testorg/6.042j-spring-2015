@@ -1,12 +1,15 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Unit 4: Probability'
+parent_type: CourseSection
 parent_uid: 90a207e8-2f8b-3b13-6906-7b58f9c6f169
 title: 4.7 Sampling & Confidence
 uid: a3bc4574-329a-2834-df03-0de577ce1f81
 ---
 
-*   [<Implications of Expectation]({{< baseurl >}}/pages/probability/tp13-2/vertical-4699d069607e)
+*   [\<Implications of Expectation]({{< baseurl >}}/pages/probability/tp13-2/vertical-4699d069607e)
 *   [4.7.1Law Of Large Numbers: Video]({{< baseurl >}}/pages/probability/tp14-1)
 *   [4.7.2Not So Strong]({{< baseurl >}}/pages/probability/tp14-1/vertical-84aa6f70d1c0)
 *   [4.7.3Independent Sampling Theorem: Video]({{< baseurl >}}/pages/probability/tp14-1/vertical-872c5ec0974e)

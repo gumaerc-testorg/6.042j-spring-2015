@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 3.2 Asymptotics
+parent_type: CourseSection
 parent_uid: 7fcb0761-6e29-48a6-ad10-caa832263c78
 title: 3.2 Asymptotics
 uid: c4f72171-1e9e-ed96-b6f2-319be0d10496

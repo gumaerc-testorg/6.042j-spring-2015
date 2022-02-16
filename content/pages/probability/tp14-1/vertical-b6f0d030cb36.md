@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 4.7 Sampling & Confidence
+parent_type: CourseSection
 parent_uid: a3bc4574-329a-2834-df03-0de577ce1f81
 title: 4.7 Sampling & Confidence
 uid: 53080923-18e9-0432-15b9-d6ba6c644904

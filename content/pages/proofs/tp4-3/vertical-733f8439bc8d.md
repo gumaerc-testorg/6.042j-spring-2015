@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 1.11  Infinite Sets
+parent_type: CourseSection
 parent_uid: 7b14af4d-9845-97ad-4109-98ecc9fb9f71
 title: 1.11  Infinite Sets
 uid: f838628c-408e-57ef-9d8c-672dd683e53d

@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 2.7 Partial Orders and Equivalence
+parent_type: CourseSection
 parent_uid: e3bcfae1-ff3e-4391-a255-e7aa0a942756
 title: 2.7 Partial Orders and Equivalence
 uid: 7d305e12-f34a-4645-2b9d-554128327161

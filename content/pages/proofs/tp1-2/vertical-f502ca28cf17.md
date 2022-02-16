@@ -1,12 +1,15 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 1.2 Proof Methods
+parent_type: CourseSection
 parent_uid: 604f8e07-2680-3e77-8aac-7885f0f6eaf0
 title: 1.2 Proof Methods
 uid: 352e6518-0068-3c82-2398-9a1643662d4c
 ---
 
-*   [<Proof By Contradiction]({{< baseurl >}}/pages/proofs/tp1-2/vertical-2835de2f30b6)
+*   [\<Proof By Contradiction]({{< baseurl >}}/pages/proofs/tp1-2/vertical-2835de2f30b6)
 *   [1.2.1Proof By Contradiction: Video]({{< baseurl >}}/pages/proofs/tp1-2)
 *   [1.2.2Proof By Contradiction]({{< baseurl >}}/pages/proofs/tp1-2/vertical-2835de2f30b6)
 *   [1.2.3Proof By Cases: Video]({{< baseurl >}}/pages/proofs/tp1-2/vertical-f502ca28cf17)

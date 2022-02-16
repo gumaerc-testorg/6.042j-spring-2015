@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This file contains information regarding expectation.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-042j-mathematics-for-computer-science-spring-2015/4c94bc85880bbc7c023de1fd284b33cd_MIT6_042JS15_Expectation.pdf
+file: /media/courses/6-042j-mathematics-for-computer-science-spring-2015/4c94bc85880bbc7c023de1fd284b33cd_MIT6_042JS15_Expectation.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Slides
+parent_type: CourseSection
 resourcetype: Document
 title: 'Expectation: Expectation'
 uid: 4c94bc85-880b-bc7c-023d-e1fd284b33cd

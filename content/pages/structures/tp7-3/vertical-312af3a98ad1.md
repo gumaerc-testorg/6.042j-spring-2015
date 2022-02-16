@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 2.9 Coloring & Connectivity
+parent_type: CourseSection
 parent_uid: 109f4d41-cb88-fdaa-de16-336e6c117167
 title: 2.9 Coloring & Connectivity
 uid: e536818d-108b-89c6-6f99-c8700edab098

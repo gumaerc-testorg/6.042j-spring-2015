@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 3.3 Counting with Bijections
+parent_type: CourseSection
 parent_uid: 71ca5272-63f2-4aa7-d717-ef63328e47ef
 title: 3.3 Counting with Bijections
 uid: edfa21bd-1c7e-27c3-da1f-a19f2e98949e

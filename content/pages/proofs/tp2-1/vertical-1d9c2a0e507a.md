@@ -1,12 +1,15 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 1.3 Well Ordering Principle
+parent_type: CourseSection
 parent_uid: 376535e1-bbaf-1919-fdc3-bdd7b7043dea
 title: 1.3 Well Ordering Principle
 uid: 0c28bcd2-9489-4bf0-d41a-8f8844365509
 ---
 
-*   [<Well Ordering Principle]({{< baseurl >}}/pages/proofs/tp2-1)
+*   [\<Well Ordering Principle]({{< baseurl >}}/pages/proofs/tp2-1)
 *   [1.3.1Well Ordering Principle 1: Video]({{< baseurl >}}/pages/proofs/tp2-1)
 *   [1.3.2Domain for Well Ordering Principle]({{< baseurl >}}/pages/proofs/tp2-1/vertical-1d9c2a0e507a)
 *   [1.3.3Well Ordering Principle 2: Video]({{< baseurl >}}/pages/proofs/tp2-1/vertical-735460178366)

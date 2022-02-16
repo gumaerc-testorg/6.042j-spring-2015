@@ -1,12 +1,15 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Unit 4: Probability'
+parent_type: CourseSection
 parent_uid: 90a207e8-2f8b-3b13-6906-7b58f9c6f169
 title: 4.5 Expectation
 uid: 025c498f-3f5e-1c53-924f-7e40eb06a220
 ---
 
-*   [<Dice And Coin Game]({{< baseurl >}}/pages/probability/tp12-3/vertical-f27f5990f502)
+*   [\<Dice And Coin Game]({{< baseurl >}}/pages/probability/tp12-3/vertical-f27f5990f502)
 *   [4.5.1Expectation: Video]({{< baseurl >}}/pages/probability/tp13-1)
 *   [4.5.2Uneven Dice]({{< baseurl >}}/pages/probability/tp13-1/vertical-d324b518e79a)
 *   [4.5.3Expected Number Of Heads: Video]({{< baseurl >}}/pages/probability/tp13-1/vertical-07d1783f0da3)

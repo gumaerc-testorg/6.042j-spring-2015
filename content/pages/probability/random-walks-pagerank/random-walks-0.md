@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 4.8 Random Walks & Pagerank
+parent_type: CourseSection
 parent_uid: ec31be5e-21ec-45ab-3eab-7ab45d2e85b7
 title: 4.8 Random Walks & Pagerank
 uid: 00e81ecb-3330-a5f0-b44c-7680ed904aa8

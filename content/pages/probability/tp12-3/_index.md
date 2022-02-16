@@ -1,12 +1,15 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Unit 4: Probability'
+parent_type: CourseSection
 parent_uid: 90a207e8-2f8b-3b13-6906-7b58f9c6f169
 title: 4.4 Random Variables, Density Functions
 uid: 5d000a4e-2a13-daae-80b1-331e90d2f442
 ---
 
-*   [<Paradox]({{< baseurl >}}/pages/probability/tp12-2/paradox)
+*   [\<Paradox]({{< baseurl >}}/pages/probability/tp12-2/paradox)
 *   [4.4.1Bigger Number Game: Video]({{< baseurl >}}/pages/probability/tp12-3)
 *   [4.4.2Random Variables: Independence: Video]({{< baseurl >}}/pages/probability/tp12-3/vertical-af2ad400f984)
 *   [4.4.3Odd Heads and Matches]({{< baseurl >}}/pages/probability/tp12-3/vertical-12926a05d1ba)

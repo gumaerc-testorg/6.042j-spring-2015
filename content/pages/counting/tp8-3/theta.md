@@ -1,12 +1,15 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 3.2 Asymptotics
+parent_type: CourseSection
 parent_uid: 7fcb0761-6e29-48a6-ad10-caa832263c78
 title: 3.2 Asymptotics
 uid: bb9ab3ea-0c54-6b87-900f-afd21424cd19
 ---
 
-*   [<Little oh Big Oh]({{< baseurl >}}/pages/counting/tp8-3/vertical-5c04897d10e6)
+*   [\<Little oh Big Oh]({{< baseurl >}}/pages/counting/tp8-3/vertical-5c04897d10e6)
 *   [3.2.1Asymptotic Notation: Video]({{< baseurl >}}/pages/counting/tp8-3)
 *   [3.2.2Asymptotics as Relations]({{< baseurl >}}/pages/counting/tp8-3/vertical-3800c4b1c397)
 *   [3.2.3Asymptotic Properties: Video]({{< baseurl >}}/pages/counting/tp8-3/vertical-e35ce9684389)

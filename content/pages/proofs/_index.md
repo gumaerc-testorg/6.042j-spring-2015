@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: 'Unit 1: Proofs'
 uid: 95af5c7b-87a2-e157-90a7-ad18331a125f
 ---

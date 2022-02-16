@@ -1,12 +1,15 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 2.11 Stable Matching
+parent_type: CourseSection
 parent_uid: 47305688-cc38-9e2f-9dc3-019a395b3b37
 title: 2.11 Stable Matching
 uid: d3855955-a736-4b6b-effb-27d6d59b1b8f
 ---
 
-*   [<Stable Matching]({{< baseurl >}}/pages/structures/stable-matching)
+*   [\<Stable Matching]({{< baseurl >}}/pages/structures/stable-matching)
 *   [2.11.1Stable Matching: Video]({{< baseurl >}}/pages/structures/stable-matching)
 *   [2.11.2Matching Ritual: Video]({{< baseurl >}}/pages/structures/stable-matching/matching-ritual-video)
 *   [2.11.3Derived Variables]({{< baseurl >}}/pages/structures/stable-matching/derived-variables-0)

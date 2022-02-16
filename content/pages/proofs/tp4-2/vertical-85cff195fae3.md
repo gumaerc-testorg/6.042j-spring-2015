@@ -1,12 +1,15 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 1.9  State Machines - Invariants
+parent_type: CourseSection
 parent_uid: 470546ac-8124-6c93-8505-a0f7571765aa
 title: 1.9  State Machines - Invariants
 uid: bd55b53d-c54b-1a4a-4c52-a30e9c3119d3
 ---
 
-*   [<Derived Variables and Termination]({{< baseurl >}}/pages/proofs/tp4-2/vertical-5bf3bfde6f69)
+*   [\<Derived Variables and Termination]({{< baseurl >}}/pages/proofs/tp4-2/vertical-5bf3bfde6f69)
 *   [1.9.1State Machines Invariants: Video]({{< baseurl >}}/pages/proofs/tp4-2)
 *   [1.9.2State Machine Invariants]({{< baseurl >}}/pages/proofs/tp4-2/vertical-ee3144f200f1)
 *   [1.9.3Derived Variables: Video]({{< baseurl >}}/pages/proofs/tp4-2/vertical-ef00ae29a8ca)

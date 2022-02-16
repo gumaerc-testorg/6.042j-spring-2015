@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 3.5 Pigeonhole Principle, Inclusion-Exclusion
+parent_type: CourseSection
 parent_uid: d45e9517-2acf-2a43-0d67-a0ef15468161
 title: 3.5 Pigeonhole Principle, Inclusion-Exclusion
 uid: 33eeaaae-10d0-1971-6474-5da153cd4deb

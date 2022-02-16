@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 2.8  Degrees & Isomorphism
+parent_type: CourseSection
 parent_uid: a3d45286-2b82-1913-8b1e-93f45114b315
 title: 2.8  Degrees & Isomorphism
 uid: 53edf1fb-e6b8-b495-c3ae-3bf1f1ca3187

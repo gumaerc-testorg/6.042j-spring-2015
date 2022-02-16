@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 2.3  Euler's Theorem
+parent_type: CourseSection
 parent_uid: 8083cb55-8a36-eb8d-ad32-920ceb95cfdb
 title: 2.3  Euler's Theorem
 uid: e4755cd4-59fa-090f-fe97-18a5211a4775

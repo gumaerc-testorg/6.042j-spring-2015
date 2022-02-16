@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 2.2  Congruences
+parent_type: CourseSection
 parent_uid: 30a0182e-39fc-2a66-241e-fb67db839b1d
 title: 2.2  Congruences
 uid: f92fa065-c866-4991-acab-eff36a38fc7d

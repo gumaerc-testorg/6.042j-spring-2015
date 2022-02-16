@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 3.4 Repetitions & Binomial Theorem
+parent_type: CourseSection
 parent_uid: c8103e15-328b-9991-c077-4e6c0892ba9f
 title: 3.4 Repetitions & Binomial Theorem
 uid: 2e5bc9bd-e282-24ec-7a07-54ff8d093554

@@ -1,12 +1,15 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 1.7 Binary Relations
+parent_type: CourseSection
 parent_uid: dc4329a2-0693-5f01-be73-cf0b227cc3ed
 title: 1.7 Binary Relations
 uid: f32fdc0c-97b3-80c9-9f28-e8ec9afa8b83
 ---
 
-*   [<In- ,Sur-, and Bijections]({{< baseurl >}}/pages/proofs/tp3-3/vertical-e3a6326108c6)
+*   [\<In- ,Sur-, and Bijections]({{< baseurl >}}/pages/proofs/tp3-3/vertical-e3a6326108c6)
 *   [1.7.1Relations: Video]({{< baseurl >}}/pages/proofs/tp3-3)
 *   [1.7.2Range of a Relation]({{< baseurl >}}/pages/proofs/tp3-3/vertical-70020f5936fa)
 *   [1.7.3Relational Mappings: Video]({{< baseurl >}}/pages/proofs/tp3-3/vertical-360a6e85d0f4)
@@ -35,31 +38,31 @@ such that \\(R(\\{0,3,11\\}) = \\{0,6,22\\} \\). Another example, \\(R(\\mathbb{
 
 Now assume \\(R \\) is some **total function** and \\(A \\) is finite. Fill in the blanks to produce the **strongest** correct version of the following statements:
 
-1.  {{< quiz_multiple_choice questionId="Q1_div" >}}{{< quiz_choices >}}{{< quiz_choice isCorrect="false" >}}&nbsp;\\(<\\)&nbsp;{{< /quiz_choice >}}
+1.  {{< quiz_multiple_choice questionId="Q1_div" >}}{{< quiz_choices >}}{{< quiz_choice isCorrect="false" >}}&nbsp;\\(\<\\)&nbsp;{{< /quiz_choice >}}
     {{< quiz_choice isCorrect="true" >}}&nbsp;\\(\\leq\\)&nbsp;{{< /quiz_choice >}}
     {{< quiz_choice isCorrect="false" >}}&nbsp;\\(=\\)&nbsp;{{< /quiz_choice >}}
     {{< quiz_choice isCorrect="false" >}}&nbsp;\\(\\geq\\)&nbsp;{{< /quiz_choice >}}
     {{< quiz_choice isCorrect="false" >}}&nbsp;\\(>\\)&nbsp;{{< /quiz_choice >}}{{< /quiz_choices >}}
     {{< quiz_solution >}}Note that \\(R(A)\\subseteq B \\).{{< /quiz_solution >}}{{< /quiz_multiple_choice >}}
-2.  {{< quiz_multiple_choice questionId="Q2_div" >}}{{< quiz_choices >}}{{< quiz_choice isCorrect="false" >}}&nbsp;\\(<\\)&nbsp;{{< /quiz_choice >}}
+2.  {{< quiz_multiple_choice questionId="Q2_div" >}}{{< quiz_choices >}}{{< quiz_choice isCorrect="false" >}}&nbsp;\\(\<\\)&nbsp;{{< /quiz_choice >}}
     {{< quiz_choice isCorrect="false" >}}&nbsp;\\(\\leq\\)&nbsp;{{< /quiz_choice >}}
     {{< quiz_choice isCorrect="false" >}}&nbsp;\\(=\\)&nbsp;{{< /quiz_choice >}}
     {{< quiz_choice isCorrect="true" >}}&nbsp;\\(\\geq\\)&nbsp;{{< /quiz_choice >}}
     {{< quiz_choice isCorrect="false" >}}&nbsp;\\(>\\)&nbsp;{{< /quiz_choice >}}{{< /quiz_choices >}}
     {{< quiz_solution / >}}{{< /quiz_multiple_choice >}}
-3.  {{< quiz_multiple_choice questionId="Q3_div" >}}{{< quiz_choices >}}{{< quiz_choice isCorrect="false" >}}&nbsp;\\(<\\)&nbsp;{{< /quiz_choice >}}
+3.  {{< quiz_multiple_choice questionId="Q3_div" >}}{{< quiz_choices >}}{{< quiz_choice isCorrect="false" >}}&nbsp;\\(\<\\)&nbsp;{{< /quiz_choice >}}
     {{< quiz_choice isCorrect="false" >}}&nbsp;\\(\\leq\\)&nbsp;{{< /quiz_choice >}}
     {{< quiz_choice isCorrect="true" >}}&nbsp;\\(=\\)&nbsp;{{< /quiz_choice >}}
     {{< quiz_choice isCorrect="false" >}}&nbsp;\\(\\geq\\)&nbsp;{{< /quiz_choice >}}
     {{< quiz_choice isCorrect="false" >}}&nbsp;\\(>\\)&nbsp;{{< /quiz_choice >}}{{< /quiz_choices >}}
     {{< quiz_solution / >}}{{< /quiz_multiple_choice >}}
-4.  {{< quiz_multiple_choice questionId="Q4_div" >}}{{< quiz_choices >}}{{< quiz_choice isCorrect="false" >}}&nbsp;\\(<\\)&nbsp;{{< /quiz_choice >}}
+4.  {{< quiz_multiple_choice questionId="Q4_div" >}}{{< quiz_choices >}}{{< quiz_choice isCorrect="false" >}}&nbsp;\\(\<\\)&nbsp;{{< /quiz_choice >}}
     {{< quiz_choice isCorrect="false" >}}&nbsp;\\(\\leq\\)&nbsp;{{< /quiz_choice >}}
     {{< quiz_choice isCorrect="true" >}}&nbsp;\\(=\\)&nbsp;{{< /quiz_choice >}}
     {{< quiz_choice isCorrect="false" >}}&nbsp;\\(\\geq\\)&nbsp;{{< /quiz_choice >}}
     {{< quiz_choice isCorrect="false" >}}&nbsp;\\(>\\)&nbsp;{{< /quiz_choice >}}{{< /quiz_choices >}}
     {{< quiz_solution / >}}{{< /quiz_multiple_choice >}}
-5.  {{< quiz_multiple_choice questionId="Q5_div" >}}{{< quiz_choices >}}{{< quiz_choice isCorrect="false" >}}&nbsp;\\(<\\)&nbsp;{{< /quiz_choice >}}
+5.  {{< quiz_multiple_choice questionId="Q5_div" >}}{{< quiz_choices >}}{{< quiz_choice isCorrect="false" >}}&nbsp;\\(\<\\)&nbsp;{{< /quiz_choice >}}
     {{< quiz_choice isCorrect="false" >}}&nbsp;\\(\\leq\\)&nbsp;{{< /quiz_choice >}}
     {{< quiz_choice isCorrect="true" >}}&nbsp;\\(=\\)&nbsp;{{< /quiz_choice >}}
     {{< quiz_choice isCorrect="false" >}}&nbsp;\\(\\geq\\)&nbsp;{{< /quiz_choice >}}

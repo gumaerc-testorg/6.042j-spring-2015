@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 2.4  RSA Encryption
+parent_type: CourseSection
 parent_uid: df8008a7-9d68-087d-809b-bd4cc447cdea
 title: 2.4  RSA Encryption
 uid: f853d2c1-31e7-54a6-ef37-5cb05318c77f

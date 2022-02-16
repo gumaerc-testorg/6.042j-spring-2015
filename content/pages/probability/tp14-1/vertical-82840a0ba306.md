@@ -1,12 +1,15 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 4.7 Sampling & Confidence
+parent_type: CourseSection
 parent_uid: a3bc4574-329a-2834-df03-0de577ce1f81
 title: 4.7 Sampling & Confidence
 uid: f1b5e54d-7038-0fe7-908b-4c0dfd6207a3
 ---
 
-*   [<Sampling Coin Tosses]({{< baseurl >}}/pages/probability/tp14-1/vertical-b7cee8c0e19c)
+*   [\<Sampling Coin Tosses]({{< baseurl >}}/pages/probability/tp14-1/vertical-b7cee8c0e19c)
 *   [4.7.1Law Of Large Numbers: Video]({{< baseurl >}}/pages/probability/tp14-1)
 *   [4.7.2Not So Strong]({{< baseurl >}}/pages/probability/tp14-1/vertical-84aa6f70d1c0)
 *   [4.7.3Independent Sampling Theorem: Video]({{< baseurl >}}/pages/probability/tp14-1/vertical-872c5ec0974e)

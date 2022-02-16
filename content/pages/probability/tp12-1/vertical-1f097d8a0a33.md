@@ -1,12 +1,15 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 4.2 Conditional Probability
+parent_type: CourseSection
 parent_uid: 79ebde2b-537e-9e26-dc39-d5d2e1c8f1d9
 title: 4.2 Conditional Probability
 uid: 719a707a-e7a4-1f34-c688-5d5a02df431c
 ---
 
-*   [<Cavities and Candy]({{< baseurl >}}/pages/probability/tp12-1/vertical-ca9fdfa21bb0)
+*   [\<Cavities and Candy]({{< baseurl >}}/pages/probability/tp12-1/vertical-ca9fdfa21bb0)
 *   [4.2.1Conditional Probability Definitions: Video]({{< baseurl >}}/pages/probability/tp12-1)
 *   [4.2.2Dicey Sum]({{< baseurl >}}/pages/probability/tp12-1/vertical-c84a5906e76d)
 *   [4.2.3Law of Total Probability: Video]({{< baseurl >}}/pages/probability/tp12-1/vertical-4689ff047559)

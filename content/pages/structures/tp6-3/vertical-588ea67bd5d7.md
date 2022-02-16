@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: '2.5  Digraphs: Walks & Paths'
+parent_type: CourseSection
 parent_uid: 711aeeca-1552-65f2-21e5-af2643f1a05f
 title: '2.5  Digraphs: Walks & Paths'
 uid: 6bb54428-ef58-6956-4c92-74c82cf35ba5

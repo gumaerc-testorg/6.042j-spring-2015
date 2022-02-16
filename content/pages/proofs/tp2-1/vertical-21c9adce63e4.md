@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 1.3 Well Ordering Principle
+parent_type: CourseSection
 parent_uid: 376535e1-bbaf-1919-fdc3-bdd7b7043dea
 title: 1.3 Well Ordering Principle
 uid: dc6369eb-4657-ab61-8c48-08862bf7c80f
