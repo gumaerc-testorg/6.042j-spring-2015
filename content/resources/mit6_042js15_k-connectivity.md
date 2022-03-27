@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Slides
 parent_type: CourseSection
+parent_uid: 118f09a2-89bc-f0f7-005f-6299a530d329
 resourcetype: Document
 title: 'Coloring & Connectivity: k-Connectivity'
 uid: ef026318-6ea9-9146-c604-f6df63807f7a

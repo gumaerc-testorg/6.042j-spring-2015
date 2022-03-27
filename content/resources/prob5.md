@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 2.9 Coloring & Connectivity
 parent_type: CourseSection
+parent_uid: 37c946f7-740b-bff0-820b-bd0f7713a868
 resourcetype: Image
 title: prob5.gif
 uid: 60827324-3b33-4186-908f-829497a88369

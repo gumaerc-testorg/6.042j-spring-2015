@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 1bd2d357-6523-fe6c-8a8f-82aaec579197
 resourcetype: Document
 title: "Trees: Chapter 11.9 \u2013 11.10"
 uid: dfa2be0e-610d-db13-3986-368515c74823

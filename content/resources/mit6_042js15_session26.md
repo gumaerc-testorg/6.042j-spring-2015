@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 1bd2d357-6523-fe6c-8a8f-82aaec579197
 resourcetype: Document
 title: "Repetitions & Binomial Theorem: Chapter 14.4 \u2013 14.7"
 uid: 4d0e1508-73fe-f831-6a69-7abbef179af1

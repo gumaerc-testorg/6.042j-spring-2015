@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Slides
 parent_type: CourseSection
+parent_uid: 118f09a2-89bc-f0f7-005f-6299a530d329
 resourcetype: Document
 title: 'Recursive Definition: Recursive Functions'
 uid: 0f3bc167-a55a-4f94-6466-720e8984ec9d

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Slides
 parent_type: CourseSection
+parent_uid: 118f09a2-89bc-f0f7-005f-6299a530d329
 resourcetype: Document
 title: 'Sums & Products: Book Stacking'
 uid: 0f7bb67c-ed75-e69f-9761-05e4f4b78834

@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 2.10 Trees
 parent_type: CourseSection
+parent_uid: c9523658-4578-2eac-5fd7-65fa5889d8c4
 resourcetype: Image
 title: pp5prob2a.gif
 uid: fd225c5d-157b-99e7-ff50-fd687745b817

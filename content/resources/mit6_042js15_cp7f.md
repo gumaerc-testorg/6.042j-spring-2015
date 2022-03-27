@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: In-Class Questions
 parent_type: CourseSection
+parent_uid: 751443e0-4110-d1d9-57e6-e5a847c9853e
 resourcetype: Document
 title: Session 7f Questions
 uid: 22ec5ec9-0513-2c7f-86e4-116a71b39dca

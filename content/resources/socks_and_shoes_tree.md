@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 4.1 Intro to Discrete Probability
 parent_type: CourseSection
+parent_uid: ad83e19e-58d2-92c4-85c4-b3cec4bca701
 resourcetype: Image
 title: socks_and_shoes_tree.jpg
 uid: f1587f9b-582c-584d-ff62-1cacec93bdb5

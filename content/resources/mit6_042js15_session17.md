@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 1bd2d357-6523-fe6c-8a8f-82aaec579197
 resourcetype: Document
 title: 'Directed Acyclic Graphs (DAGs) & Scheduling: Chapter 9.5'
 uid: 55b73ef5-0001-ae2b-6425-a914a79f8014

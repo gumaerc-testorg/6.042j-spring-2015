@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Slides
 parent_type: CourseSection
+parent_uid: 118f09a2-89bc-f0f7-005f-6299a530d329
 resourcetype: Document
 title: 'Deviation: Markov & Chebyshev Bounds: Chebyshev Bounds'
 uid: ceb56012-eea3-ca20-7fe4-da38ac970818

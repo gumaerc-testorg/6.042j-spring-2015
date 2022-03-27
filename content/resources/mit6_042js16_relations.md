@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Slides
 parent_type: CourseSection
+parent_uid: 118f09a2-89bc-f0f7-005f-6299a530d329
 resourcetype: Document
 title: 'Binary Relations: Relations'
 uid: ad95499b-a81e-1ccb-acff-f6d45584bd2b

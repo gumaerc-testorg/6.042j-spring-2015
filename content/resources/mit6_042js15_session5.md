@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 1bd2d357-6523-fe6c-8a8f-82aaec579197
 resourcetype: Document
 title: 'Quantifiers & Predicate Logic: Chapter 3.6'
 uid: f75cc145-f8e2-c51f-b7ce-f9390973ff1c

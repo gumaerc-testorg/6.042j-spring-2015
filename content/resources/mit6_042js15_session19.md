@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 1bd2d357-6523-fe6c-8a8f-82aaec579197
 resourcetype: Document
 title: "Degrees & Isomorphism: Chapter 11.1 \u2013 11.4"
 uid: 45cb28c7-1490-4fad-a053-eaf0e3151e1a

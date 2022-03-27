@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: f88eb615-5830-2f3d-c3e2-2a63752606ef
 resourcetype: Document
 title: MIT6_042JS15_midterm1.pdf
 uid: 9ce2910b-0a6d-0b78-e5d8-0df651ace63d

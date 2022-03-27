@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Slides
 parent_type: CourseSection
+parent_uid: 118f09a2-89bc-f0f7-005f-6299a530d329
 resourcetype: Document
 title: 'Quantifiers & Predicate Logic: Predicate Logic 2'
 uid: a1427f0b-1ec9-bdf9-90f0-3ca5a49bd0a2

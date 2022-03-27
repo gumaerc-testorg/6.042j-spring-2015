@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 1bd2d357-6523-fe6c-8a8f-82aaec579197
 resourcetype: Document
 title: 'Stable Matching: Chapter 11.6'
 uid: 29e9909c-6ce8-6b17-b76b-505be91fc9a5

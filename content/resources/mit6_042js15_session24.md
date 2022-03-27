@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 1bd2d357-6523-fe6c-8a8f-82aaec579197
 resourcetype: Document
 title: 'Asymptotics: Chapter 13.7'
 uid: 0e4b31e7-291a-69e1-57a4-a224c36724c3

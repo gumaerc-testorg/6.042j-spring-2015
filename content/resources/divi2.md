@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 2.6 Directed Acyclic Graphs (DAGs) & Scheduling
 parent_type: CourseSection
+parent_uid: 011a1e95-b575-d2f7-09fa-03443fdeb584
 resourcetype: Image
 title: divi2.gif
 uid: 9c0924a3-5104-092a-e5e4-e916b4a15f1c

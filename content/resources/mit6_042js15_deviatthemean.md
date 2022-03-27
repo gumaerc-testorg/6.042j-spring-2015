@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Slides
 parent_type: CourseSection
+parent_uid: 118f09a2-89bc-f0f7-005f-6299a530d329
 resourcetype: Document
 title: 'Deviation: Markov & Chebyshev Bounds: Deviation From The Mean'
 uid: 9faf0dc3-85c6-cd2f-413d-970915f8dd8b

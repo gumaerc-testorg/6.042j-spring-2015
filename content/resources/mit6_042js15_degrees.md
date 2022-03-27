@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Slides
 parent_type: CourseSection
+parent_uid: 118f09a2-89bc-f0f7-005f-6299a530d329
 resourcetype: Document
 title: 'Degrees and Isomorphism: Degrees'
 uid: 6fdb34be-7411-6fe4-e752-00810d7b7d71

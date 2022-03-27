@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 1bd2d357-6523-fe6c-8a8f-82aaec579197
 resourcetype: Document
 title: "Conditional Probability: Chapter 17.1 \u2013 17.5"
 uid: ab4ed527-47f9-17d7-3ec2-54fdad32f39f

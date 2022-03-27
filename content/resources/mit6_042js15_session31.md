@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 1bd2d357-6523-fe6c-8a8f-82aaec579197
 resourcetype: Document
 title: "Random Variables, Density Functions: Chapter 18.1 \u2013 18.3"
 uid: 32f3ba52-f980-a7b2-ca45-1c9eef93a090

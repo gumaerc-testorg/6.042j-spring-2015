@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 1bd2d357-6523-fe6c-8a8f-82aaec579197
 resourcetype: Document
 title: "Induction: Chapter 5.1 \u2013 5.3"
 uid: 366d7f2c-3cbc-e0da-b4fb-4389e1822bb9

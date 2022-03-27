@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Slides
 parent_type: CourseSection
+parent_uid: 118f09a2-89bc-f0f7-005f-6299a530d329
 resourcetype: Document
 title: 'Digraphs: Walks & Paths: Digraphs: Connected Vertices'
 uid: 131f578a-0356-4eb3-b29a-064d38186966

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Slides
 parent_type: CourseSection
+parent_uid: 118f09a2-89bc-f0f7-005f-6299a530d329
 resourcetype: Document
 title: 'Intro to Proofs: Welcome to 6.042'
 uid: 9dc2b138-c72a-ed52-bbc6-684337900017

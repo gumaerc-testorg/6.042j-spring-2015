@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 1bd2d357-6523-fe6c-8a8f-82aaec579197
 resourcetype: Document
 title: 'Mathematics for Computer Science: Course Textbook'
 uid: cd19c484-b882-5fdc-64a7-cc1e17722ef7

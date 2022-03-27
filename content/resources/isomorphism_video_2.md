@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 2.8  Degrees & Isomorphism
 parent_type: CourseSection
+parent_uid: 5e883854-b9f8-afee-1b20-89dcfe536b50
 resourcetype: Image
 title: isomorphism_video_2.png
 uid: c0adef39-569b-263d-d421-9594d163da71

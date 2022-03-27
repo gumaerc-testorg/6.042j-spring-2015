@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 1bd2d357-6523-fe6c-8a8f-82aaec579197
 resourcetype: Document
 title: 'Random Walks & Pagerank: Chapter 20.2'
 uid: 78a421ae-c146-e0f2-d4d7-5c66c08933d3

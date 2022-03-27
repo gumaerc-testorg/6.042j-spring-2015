@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 1bd2d357-6523-fe6c-8a8f-82aaec579197
 resourcetype: Document
 title: "Well Ordering Principle: Chapter 2.1 \u2013 2.3"
 uid: e998dc8f-0e9f-1624-f02c-4740799d72a1

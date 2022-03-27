@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 1bd2d357-6523-fe6c-8a8f-82aaec579197
 resourcetype: Document
 title: "RSA Encryption: Chapter 8.11 \u2013 8.12"
 uid: 180ba5ee-0bf0-afa0-3e9e-77e1f9597c78

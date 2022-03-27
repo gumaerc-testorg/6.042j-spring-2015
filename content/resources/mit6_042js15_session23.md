@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 1bd2d357-6523-fe6c-8a8f-82aaec579197
 resourcetype: Document
 title: "Sums & Products: Chapter 13.1 \u2013 13.5"
 uid: 83cce691-604b-e64f-bc2a-72de1b37fdf7

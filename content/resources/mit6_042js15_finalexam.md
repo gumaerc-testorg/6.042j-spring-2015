@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: f88eb615-5830-2f3d-c3e2-2a63752606ef
 resourcetype: Document
 title: MIT 6.042 Spring 2015 Final Exam
 uid: f139eb6f-8807-79a6-c6df-d8fbe27ef576

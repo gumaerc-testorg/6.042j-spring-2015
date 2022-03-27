@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Slides
 parent_type: CourseSection
+parent_uid: 118f09a2-89bc-f0f7-005f-6299a530d329
 resourcetype: Document
 title: 'Partial Orders and Equivalence: Equivalence Relations'
 uid: 99628d8a-e2fa-f69f-7a58-5652cb4d68e4

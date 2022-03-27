@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Slides
 parent_type: CourseSection
+parent_uid: 118f09a2-89bc-f0f7-005f-6299a530d329
 resourcetype: Document
 title: 'Random Variables, Density Functions: Random Variables: Independence'
 uid: f5330495-586a-5e34-54f9-f208946c0192

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Slides
 parent_type: CourseSection
+parent_uid: 118f09a2-89bc-f0f7-005f-6299a530d329
 resourcetype: Document
 title: 'Pigeonhole Principle, Inclusion-Exclusion: Inclusion-Exclusion'
 uid: 3870ed93-eecb-c80a-5190-ed50bd41fd66

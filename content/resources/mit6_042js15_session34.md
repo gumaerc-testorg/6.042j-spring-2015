@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 1bd2d357-6523-fe6c-8a8f-82aaec579197
 resourcetype: Document
 title: "Sampling & Confidence: Chapter 19.4 \u2013 19.5"
 uid: a9c3e260-c5e3-d85c-c2e3-e94869a73d72

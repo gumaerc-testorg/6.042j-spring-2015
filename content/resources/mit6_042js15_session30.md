@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 1bd2d357-6523-fe6c-8a8f-82aaec579197
 resourcetype: Document
 title: "Independence & Causality: Chapter 17.7 \u2013 17.8"
 uid: b8bd455d-df32-6628-a1c8-773de1a17a28

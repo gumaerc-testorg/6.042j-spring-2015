@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Slides
 parent_type: CourseSection
+parent_uid: 118f09a2-89bc-f0f7-005f-6299a530d329
 resourcetype: Document
 title: 'Trees: Spanning Trees'
 uid: 1df1fa1c-b3b2-d9e9-f0b9-85e6c3fdc24a

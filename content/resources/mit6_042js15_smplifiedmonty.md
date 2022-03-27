@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Slides
 parent_type: CourseSection
+parent_uid: 118f09a2-89bc-f0f7-005f-6299a530d329
 resourcetype: Document
 title: 'Intro to Discrete Probability: Simplified Monty Hall Tree'
 uid: 1078611b-182a-6bd9-1081-3508b4d9b8b0

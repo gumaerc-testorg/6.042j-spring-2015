@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Slides
 parent_type: CourseSection
+parent_uid: 118f09a2-89bc-f0f7-005f-6299a530d329
 resourcetype: Document
 title: 'Partial Orders and Equivalence: Representing Partial Orders As Subset Relations'
 uid: e8f0ccab-70bd-dc8c-1132-a47dd87a1bae

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 1bd2d357-6523-fe6c-8a8f-82aaec579197
 resourcetype: Document
 title: "Coloring & Connectivity: Chapter 11.7 \u2013 11.9"
 uid: 30a57b4e-eeca-0a00-3d03-0e0cad926d7c

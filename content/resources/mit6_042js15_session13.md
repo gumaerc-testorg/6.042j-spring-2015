@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 1bd2d357-6523-fe6c-8a8f-82aaec579197
 resourcetype: Document
 title: "Congruences: Chapter 8.6 \u2013 8.9"
 uid: 6247eaad-5764-e3b0-6bdd-4f1b0a660aab

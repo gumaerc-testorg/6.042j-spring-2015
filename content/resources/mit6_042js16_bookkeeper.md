@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Slides
 parent_type: CourseSection
+parent_uid: 118f09a2-89bc-f0f7-005f-6299a530d329
 resourcetype: Document
 title: 'Repetitions & Binomial Theorem: Bookkeeper Rule, Multinomial Theorem'
 uid: 61f041cc-2a03-4ffb-89fa-495bb4d9207f

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 1bd2d357-6523-fe6c-8a8f-82aaec579197
 resourcetype: Document
 title: "Proof Methods: Chapter 1.7 \u2013 1.9"
 uid: ae208667-aae7-888a-8f14-757b5c356056

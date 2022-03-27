@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Slides
 parent_type: CourseSection
+parent_uid: 118f09a2-89bc-f0f7-005f-6299a530d329
 resourcetype: Document
 title: 'Directed Acyclic Graphs & Scheduling: Time vs Processors'
 uid: 4d1f0a2d-3661-1f6e-3cbc-152eefb2c865

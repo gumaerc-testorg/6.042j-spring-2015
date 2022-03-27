@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 1bd2d357-6523-fe6c-8a8f-82aaec579197
 resourcetype: Document
 title: 'State Machines - Invariants: Chapter 5.4'
 uid: a36ecedf-4224-e8f7-7a14-60d3506eb680

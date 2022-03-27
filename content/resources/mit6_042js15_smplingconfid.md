@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Slides
 parent_type: CourseSection
+parent_uid: 118f09a2-89bc-f0f7-005f-6299a530d329
 resourcetype: Document
 title: 'Sampling and Confidence: Sampling and Confidence'
 uid: 2fa38dd9-db10-15fb-f935-05a68e64cb4a

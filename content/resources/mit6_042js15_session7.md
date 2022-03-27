@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 1bd2d357-6523-fe6c-8a8f-82aaec579197
 resourcetype: Document
 title: "Binary Relations: Chapter 4.3 \u2013 4.5"
 uid: 87aa94c3-1fb4-dbef-4174-591076429826

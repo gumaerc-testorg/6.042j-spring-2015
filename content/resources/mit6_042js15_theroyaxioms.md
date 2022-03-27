@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Slides
 parent_type: CourseSection
+parent_uid: 118f09a2-89bc-f0f7-005f-6299a530d329
 resourcetype: Document
 title: 'Infinite Sets: Set Theory Axioms'
 uid: 767636d3-3bee-bea5-ce8e-c4e96af388af

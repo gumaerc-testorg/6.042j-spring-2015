@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 1bd2d357-6523-fe6c-8a8f-82aaec579197
 resourcetype: Document
 title: 'Pigeonhole Principle, Inclusion-Exclusion: Chapter 14.8'
 uid: 84fe0d2b-a29f-9a76-f746-e6d7a2eebca2

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Slides
 parent_type: CourseSection
+parent_uid: 118f09a2-89bc-f0f7-005f-6299a530d329
 resourcetype: Document
 title: 'Conditional Probability: Law Of Total Probability'
 uid: 45e48b56-fcd1-d69f-6670-95a3c33ead7b

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 1bd2d357-6523-fe6c-8a8f-82aaec579197
 resourcetype: Document
 title: "Intro to Proofs: Chapter 1.1 \u2013 1.6"
 uid: 1e9826ef-9cda-07d3-ef10-a95670a94e80

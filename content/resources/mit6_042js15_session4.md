@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 1bd2d357-6523-fe6c-8a8f-82aaec579197
 resourcetype: Document
 title: "Logic & Propositions: Chapter 3.1 \u2013 3.5"
 uid: a75fe963-4de5-c936-4fee-309ddd724b90

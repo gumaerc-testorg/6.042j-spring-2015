@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Slides
 parent_type: CourseSection
+parent_uid: 118f09a2-89bc-f0f7-005f-6299a530d329
 resourcetype: Document
 title: 'Sums & Products: Arithmetic Sums'
 uid: b3301f26-91a7-5f6c-7a1c-19c28837bdfe

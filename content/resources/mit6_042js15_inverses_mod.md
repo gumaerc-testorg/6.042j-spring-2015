@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Slides
 parent_type: CourseSection
+parent_uid: 118f09a2-89bc-f0f7-005f-6299a530d329
 resourcetype: Document
 title: 'Congruences: Inverses Mod N'
 uid: ec0fcabd-92fe-8e72-f35c-8f56cf1b0ec5

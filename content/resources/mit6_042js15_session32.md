@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 1bd2d357-6523-fe6c-8a8f-82aaec579197
 resourcetype: Document
 title: "Expectation: Chapter 18.4 \u2013 18.5"
 uid: 4afd2446-86ba-5c67-5494-772e474a37a7

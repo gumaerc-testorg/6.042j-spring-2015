@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Slides
 parent_type: CourseSection
+parent_uid: 118f09a2-89bc-f0f7-005f-6299a530d329
 resourcetype: Document
 title: 'Random Walks & Pagerank: Stationary Distributions'
 uid: b531fbe3-8422-d24d-5f88-980cdc0a98fb

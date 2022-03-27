@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 1bd2d357-6523-fe6c-8a8f-82aaec579197
 resourcetype: Document
 title: "GCDs: Chapter 8.1 \u2013 8.5"
 uid: 96979589-9860-8067-df0f-919a6f5afd46
