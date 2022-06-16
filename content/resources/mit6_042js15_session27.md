@@ -1,16 +1,24 @@
 ---
 content_type: resource
-description: 'This resource contains information regarding mathematics for computer
-  science: Pigeonhole principle, inclusion-exclusion: Chapter 14.8.'
-file: /media/courses/6-042j-mathematics-for-computer-science-spring-2015/84fe0d2ba29f9a76f746e6d7a2eebca2_MIT6_042JS15_Session27.pdf
+description: ''
+draft: ''
+file: /courses/mathematics-for-computer-science/mit6_042js15_session27.pdf
 file_type: application/pdf
-learning_resource_types:
-- Readings
-ocw_type: OCWFile
-parent_title: Readings
-parent_type: CourseSection
-parent_uid: 1bd2d357-6523-fe6c-8a8f-82aaec579197
+image_metadata:
+  caption: ''
+  credit: ''
+  image-alt: ''
+learning_resource_types: []
+license: ''
 resourcetype: Document
-title: 'Pigeonhole Principle, Inclusion-Exclusion: Chapter 14.8'
-uid: 84fe0d2b-a29f-9a76-f746-e6d7a2eebca2
+title: MIT6_042JS15_Session27.pdf
+uid: 50733588-22d5-4e35-90ea-dac37900597f
+video_files:
+  video_captions_file: ''
+  video_thumbnail_file: ''
+  video_transcript_file: ''
+video_metadata:
+  video_speakers: ''
+  video_tags: ''
+  youtube_id: ''
 ---

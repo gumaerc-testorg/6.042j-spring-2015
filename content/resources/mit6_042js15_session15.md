@@ -1,16 +1,24 @@
 ---
 content_type: resource
-description: "This resource contains information regarding mathematics for computer\
-  \ science: RSA encryption: Chapter 8.11 \u2013 8.12."
-file: /media/courses/6-042j-mathematics-for-computer-science-spring-2015/180ba5ee0bf0afa03e9e77e1f9597c78_MIT6_042JS15_Session15.pdf
+description: ''
+draft: ''
+file: /courses/mathematics-for-computer-science/mit6_042js15_session15.pdf
 file_type: application/pdf
-learning_resource_types:
-- Readings
-ocw_type: OCWFile
-parent_title: Readings
-parent_type: CourseSection
-parent_uid: 1bd2d357-6523-fe6c-8a8f-82aaec579197
+image_metadata:
+  caption: ''
+  credit: ''
+  image-alt: ''
+learning_resource_types: []
+license: ''
 resourcetype: Document
-title: "RSA Encryption: Chapter 8.11 \u2013 8.12"
-uid: 180ba5ee-0bf0-afa0-3e9e-77e1f9597c78
+title: MIT6_042JS15_Session15.pdf
+uid: 29c68626-12f6-416f-89f5-863d82b88865
+video_files:
+  video_captions_file: ''
+  video_thumbnail_file: ''
+  video_transcript_file: ''
+video_metadata:
+  video_speakers: ''
+  video_tags: ''
+  youtube_id: ''
 ---

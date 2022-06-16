@@ -1,16 +1,24 @@
 ---
 content_type: resource
-description: "This resource contains information regarding mathematics for computer\
-  \ science: Proof methods: Chapter 1.7 \u2013 1.9."
-file: /media/courses/6-042j-mathematics-for-computer-science-spring-2015/ae208667aae7888a8f14757b5c356056_MIT6_042JS15_Session2.pdf
+description: ''
+draft: ''
+file: /courses/mathematics-for-computer-science/mit6_042js15_session2.pdf
 file_type: application/pdf
-learning_resource_types:
-- Readings
-ocw_type: OCWFile
-parent_title: Readings
-parent_type: CourseSection
-parent_uid: 1bd2d357-6523-fe6c-8a8f-82aaec579197
+image_metadata:
+  caption: ''
+  credit: ''
+  image-alt: ''
+learning_resource_types: []
+license: ''
 resourcetype: Document
-title: "Proof Methods: Chapter 1.7 \u2013 1.9"
-uid: ae208667-aae7-888a-8f14-757b5c356056
+title: MIT6_042JS15_Session2.pdf
+uid: 56c808a9-6ada-4f96-bddd-7745d945ffdc
+video_files:
+  video_captions_file: ''
+  video_thumbnail_file: ''
+  video_transcript_file: ''
+video_metadata:
+  video_speakers: ''
+  video_tags: ''
+  youtube_id: ''
 ---

@@ -1,16 +1,24 @@
 ---
 content_type: resource
-description: "This resource contains information regarding mathematics for computer\
-  \ science: Sampling & confidence: Chapter 19.4 \u2013 19.5."
-file: /media/courses/6-042j-mathematics-for-computer-science-spring-2015/a9c3e260c5e3d85cc2e3e94869a73d72_MIT6_042JS15_Session34.pdf
+description: ''
+draft: ''
+file: /courses/mathematics-for-computer-science/mit6_042js15_session34.pdf
 file_type: application/pdf
-learning_resource_types:
-- Readings
-ocw_type: OCWFile
-parent_title: Readings
-parent_type: CourseSection
-parent_uid: 1bd2d357-6523-fe6c-8a8f-82aaec579197
+image_metadata:
+  caption: ''
+  credit: ''
+  image-alt: ''
+learning_resource_types: []
+license: ''
 resourcetype: Document
-title: "Sampling & Confidence: Chapter 19.4 \u2013 19.5"
-uid: a9c3e260-c5e3-d85c-c2e3-e94869a73d72
+title: MIT6_042JS15_Session34.pdf
+uid: 4b9d7e9e-6bcf-4344-920d-0bbd92bde71a
+video_files:
+  video_captions_file: ''
+  video_thumbnail_file: ''
+  video_transcript_file: ''
+video_metadata:
+  video_speakers: ''
+  video_tags: ''
+  youtube_id: ''
 ---

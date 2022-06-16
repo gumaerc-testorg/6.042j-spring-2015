@@ -1,16 +1,24 @@
 ---
 content_type: resource
-description: "This resource contains information regarding mathematics for computer\
-  \ science: Expectation: Chapter 18.4 \u2013 18.5."
-file: /media/courses/6-042j-mathematics-for-computer-science-spring-2015/4afd244686ba5c675494772e474a37a7_MIT6_042JS15_Session32.pdf
+description: ''
+draft: ''
+file: /courses/mathematics-for-computer-science/mit6_042js15_session32.pdf
 file_type: application/pdf
-learning_resource_types:
-- Readings
-ocw_type: OCWFile
-parent_title: Readings
-parent_type: CourseSection
-parent_uid: 1bd2d357-6523-fe6c-8a8f-82aaec579197
+image_metadata:
+  caption: ''
+  credit: ''
+  image-alt: ''
+learning_resource_types: []
+license: ''
 resourcetype: Document
-title: "Expectation: Chapter 18.4 \u2013 18.5"
-uid: 4afd2446-86ba-5c67-5494-772e474a37a7
+title: MIT6_042JS15_Session32.pdf
+uid: 17d12b7e-2bb7-40ce-8e86-1b3eb05845a2
+video_files:
+  video_captions_file: ''
+  video_thumbnail_file: ''
+  video_transcript_file: ''
+video_metadata:
+  video_speakers: ''
+  video_tags: ''
+  youtube_id: ''
 ---

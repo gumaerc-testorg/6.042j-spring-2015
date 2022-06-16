@@ -1,16 +1,24 @@
 ---
 content_type: resource
-description: "This resource contains information regarding mathematics for computer\
-  \ science: Degrees & isomorphism: Chapter 11.1 \u2013 11.4."
-file: /media/courses/6-042j-mathematics-for-computer-science-spring-2015/45cb28c714904fada053eaf0e3151e1a_MIT6_042JS15_Session19.pdf
+description: ''
+draft: ''
+file: /courses/mathematics-for-computer-science/mit6_042js15_session19.pdf
 file_type: application/pdf
-learning_resource_types:
-- Readings
-ocw_type: OCWFile
-parent_title: Readings
-parent_type: CourseSection
-parent_uid: 1bd2d357-6523-fe6c-8a8f-82aaec579197
+image_metadata:
+  caption: ''
+  credit: ''
+  image-alt: ''
+learning_resource_types: []
+license: ''
 resourcetype: Document
-title: "Degrees & Isomorphism: Chapter 11.1 \u2013 11.4"
-uid: 45cb28c7-1490-4fad-a053-eaf0e3151e1a
+title: MIT6_042JS15_Session19.pdf
+uid: da705c40-b84d-411e-9609-bc10133ae09a
+video_files:
+  video_captions_file: ''
+  video_thumbnail_file: ''
+  video_transcript_file: ''
+video_metadata:
+  video_speakers: ''
+  video_tags: ''
+  youtube_id: ''
 ---

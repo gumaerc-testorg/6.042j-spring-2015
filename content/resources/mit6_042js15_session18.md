@@ -1,16 +1,24 @@
 ---
 content_type: resource
-description: "This resource contains information regarding mathematics for computer\
-  \ science: Partial orders and equivalence: Chapter 9.5 \u2013 9.11."
-file: /media/courses/6-042j-mathematics-for-computer-science-spring-2015/a7a3dd33c00131b079f95f27dfc060c5_MIT6_042JS15_Session18.pdf
+description: ''
+draft: ''
+file: /courses/mathematics-for-computer-science/mit6_042js15_session18.pdf
 file_type: application/pdf
-learning_resource_types:
-- Readings
-ocw_type: OCWFile
-parent_title: Readings
-parent_type: CourseSection
-parent_uid: 1bd2d357-6523-fe6c-8a8f-82aaec579197
+image_metadata:
+  caption: ''
+  credit: ''
+  image-alt: ''
+learning_resource_types: []
+license: ''
 resourcetype: Document
-title: "Partial Orders and Equivalence: Chapter 9.5 \u2013 9.11"
-uid: a7a3dd33-c001-31b0-79f9-5f27dfc060c5
+title: MIT6_042JS15_Session18.pdf
+uid: d21f8d69-2911-406d-b5c5-1f0eb16f0831
+video_files:
+  video_captions_file: ''
+  video_thumbnail_file: ''
+  video_transcript_file: ''
+video_metadata:
+  video_speakers: ''
+  video_tags: ''
+  youtube_id: ''
 ---
