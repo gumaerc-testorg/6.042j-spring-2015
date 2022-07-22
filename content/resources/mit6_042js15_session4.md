@@ -2,14 +2,14 @@
 content_type: resource
 description: ''
 draft: ''
-file: /courses/mathematics-for-computer-science/mit6_042js15_session4.pdf
+file: /courses/6-042j-mathematics-for-computer-science-spring-2015/mit6_042js15_session4.pdf
 file_type: application/pdf
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
 learning_resource_types: []
-license: ''
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
 title: MIT6_042JS15_Session4.pdf
 uid: 87af77e2-8c14-4e0a-b84f-e00b252930c8
