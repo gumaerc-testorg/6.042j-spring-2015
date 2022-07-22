@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: 'Unit 3: Counting'
 uid: 39106ddf-6e81-10d0-b3ef-0b61eb07512d
 ---

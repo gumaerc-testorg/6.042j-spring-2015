@@ -1,10 +1,24 @@
 ---
 content_type: resource
-description: 'This resource contains information regarding mathematics for computer
-  science: Infinite sets: Chapter 7.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-042j-mathematics-for-computer-science-spring-2015/4889188d71c494c48a81939c627e98fa_MIT6_042JS15_Session11.pdf
+description: ''
+draft: ''
+file: /courses/6-042j-mathematics-for-computer-science-spring-2015/mit6_042js15_session11.pdf
 file_type: application/pdf
+image_metadata:
+  caption: ''
+  credit: ''
+  image-alt: ''
+learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: 'Infinite Sets: Chapter 7'
-uid: 4889188d-71c4-94c4-8a81-939c627e98fa
+title: MIT6_042JS15_Session11.pdf
+uid: 37f2a7b3-1c3c-4962-a65f-8fe246b82e71
+video_files:
+  video_captions_file: ''
+  video_thumbnail_file: ''
+  video_transcript_file: ''
+video_metadata:
+  video_speakers: ''
+  video_tags: ''
+  youtube_id: ''
 ---

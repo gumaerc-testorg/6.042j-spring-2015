@@ -1,12 +1,15 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 1.11  Infinite Sets
+parent_type: CourseSection
 parent_uid: 7b14af4d-9845-97ad-4109-98ecc9fb9f71
 title: 1.11  Infinite Sets
 uid: 3d1b60b9-9d27-89b8-6c9d-68b8d7c0db02
 ---
 
-*   [<Russell's Paradox: Video]({{< baseurl >}}/pages/proofs/tp4-3/vertical-f1f52e8d7024)
+*   [\<Russell's Paradox: Video]({{< baseurl >}}/pages/proofs/tp4-3/vertical-f1f52e8d7024)
 *   [1.11.1Cardinality: Video]({{< baseurl >}}/pages/proofs/tp4-3)
 *   [1.11.2Cantor, Schroeder-Bernstein]({{< baseurl >}}/pages/proofs/tp4-3/vertical-e7c2a3883170)
 *   [1.11.3Countable Sets: Video]({{< baseurl >}}/pages/proofs/tp4-3/countable-sets-video)

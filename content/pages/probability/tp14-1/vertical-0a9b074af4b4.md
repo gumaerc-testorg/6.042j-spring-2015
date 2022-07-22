@@ -1,12 +1,15 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 4.7 Sampling & Confidence
+parent_type: CourseSection
 parent_uid: a3bc4574-329a-2834-df03-0de577ce1f81
 title: 4.7 Sampling & Confidence
 uid: b813e15c-ee92-01b1-bead-5e84b0aee9d8
 ---
 
-*   [<Confidence]({{< baseurl >}}/pages/probability/tp14-1/vertical-b6f0d030cb36)
+*   [\<Confidence]({{< baseurl >}}/pages/probability/tp14-1/vertical-b6f0d030cb36)
 *   [4.7.1Law Of Large Numbers: Video]({{< baseurl >}}/pages/probability/tp14-1)
 *   [4.7.2Not So Strong]({{< baseurl >}}/pages/probability/tp14-1/vertical-84aa6f70d1c0)
 *   [4.7.3Independent Sampling Theorem: Video]({{< baseurl >}}/pages/probability/tp14-1/vertical-872c5ec0974e)
@@ -34,7 +37,7 @@ You work for the president and you want to estimate the fraction \\(p\\) of vote
     {{< quiz_choice isCorrect="true" >}}&nbsp;All voters are equally likely to be selected as the third in our sequence of \\(n\\) choices of voters (assuming \\(n \\geq 3\\)).&nbsp;{{< /quiz_choice >}}
     {{< quiz_choice isCorrect="false" >}}&nbsp;The probability that the second voter chosen will favor the President, given that the first voter chosen prefers the President, is greater than \\(p\\).&nbsp;{{< /quiz_choice >}}
     {{< quiz_choice isCorrect="true" >}}&nbsp;The probability that the second voter chosen will favor the President, given that the second voter chosen is from the same state as the first, may not equal \\(p\\).&nbsp;{{< /quiz_choice >}}{{< /quiz_choices >}}
-    {{< quiz_solution >}}The preference of any particular voter is a constant: either "the President" or "not the President", so (1) is false and (2) is true. (3) is false; in fact, the Birthday "paradox" implies the probability of some voter being chosen more than once rapidly approaches 1 as \\(n\\) grows beyond 100. (4) holds by definition of randomly choosing an item from a set. (5) is false because successive voters in the sequence are chosen independently. (6) is true because, for example, the fraction of voters who prefer the President in the largest states may all be \\(< p\\).{{< /quiz_solution >}}{{< /quiz_multiple_choice >}}
+    {{< quiz_solution >}}The preference of any particular voter is a constant: either "the President" or "not the President", so (1) is false and (2) is true. (3) is false; in fact, the Birthday "paradox" implies the probability of some voter being chosen more than once rapidly approaches 1 as \\(n\\) grows beyond 100. (4) holds by definition of randomly choosing an item from a set. (5) is false because successive voters in the sequence are chosen independently. (6) is true because, for example, the fraction of voters who prefer the President in the largest states may all be \\(\< p\\).{{< /quiz_solution >}}{{< /quiz_multiple_choice >}}
   
 3.  Suppose that, according to your calculations, the following is true about your polling:
     

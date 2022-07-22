@@ -1,12 +1,15 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Unit 3: Counting'
+parent_type: CourseSection
 parent_uid: 39106ddf-6e81-10d0-b3ef-0b61eb07512d
 title: 3.1 Sums & Products
 uid: 93998ab0-0443-52e8-5efc-b877380e8e28
 ---
 
-*   [<Counting]({{< baseurl >}}/pages/counting)
+*   [\<Counting]({{< baseurl >}}/pages/counting)
 *   [3.1.1Arithmetic Sums: Video]({{< baseurl >}}/pages/counting/tp8-2)
 *   [3.1.2Perturbation by Young Gauss]({{< baseurl >}}/pages/counting/tp8-2/vertical-56598c481e1a)
 *   [3.1.3Geometric Sums: Video]({{< baseurl >}}/pages/counting/tp8-2/vertical-46a80f3884d6)

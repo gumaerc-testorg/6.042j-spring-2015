@@ -1,10 +1,24 @@
 ---
 content_type: resource
-description: "This resource contains information regarding mathematics for computer\
-  \ science: Intro to discrete probability: Chapter 16.1 \u2013 16.5."
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-042j-mathematics-for-computer-science-spring-2015/786ba904b8a97f894bf891ffe00d4615_MIT6_042JS15_Session28.pdf
+description: ''
+draft: ''
+file: /courses/6-042j-mathematics-for-computer-science-spring-2015/mit6_042js15_session28.pdf
 file_type: application/pdf
+image_metadata:
+  caption: ''
+  credit: ''
+  image-alt: ''
+learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: "Intro to Discrete Probability: Chapter 16.1 \u2013 16.5"
-uid: 786ba904-b8a9-7f89-4bf8-91ffe00d4615
+title: MIT6_042JS15_Session28.pdf
+uid: 689554ac-f77e-4390-b2d7-00d32782f214
+video_files:
+  video_captions_file: ''
+  video_thumbnail_file: ''
+  video_transcript_file: ''
+video_metadata:
+  video_speakers: ''
+  video_tags: ''
+  youtube_id: ''
 ---

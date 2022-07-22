@@ -1,12 +1,15 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Unit 3: Counting'
+parent_type: CourseSection
 parent_uid: 39106ddf-6e81-10d0-b3ef-0b61eb07512d
 title: 3.3 Counting with Bijections
 uid: 71ca5272-63f2-4aa7-d717-ef63328e47ef
 ---
 
-*   [<Practice with Order of Growth]({{< baseurl >}}/pages/counting/tp8-3/vertical-171ad650135b)
+*   [\<Practice with Order of Growth]({{< baseurl >}}/pages/counting/tp8-3/vertical-171ad650135b)
 *   [3.3.1Sum And Product Rules: Video]({{< baseurl >}}/pages/counting/tp9-1)
 *   [3.3.2Counting Practice]({{< baseurl >}}/pages/counting/tp9-1/vertical-049622956720)
 *   [3.3.3Counting with Bijections: Video]({{< baseurl >}}/pages/counting/tp9-1/vertical-96a6db418419)

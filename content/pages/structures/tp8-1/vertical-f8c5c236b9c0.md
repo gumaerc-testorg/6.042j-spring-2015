@@ -1,12 +1,15 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 2.10 Trees
+parent_type: CourseSection
 parent_uid: cbeb9c37-cb9c-a67c-cf21-6c0b8aeab325
 title: 2.10 Trees
 uid: 2a01183c-af7f-5488-2ed3-2634942e321c
 ---
 
-*   [<Minimum Spanning Trees]({{< baseurl >}}/pages/structures/tp8-1/minimum-spanning-trees)
+*   [\<Minimum Spanning Trees]({{< baseurl >}}/pages/structures/tp8-1/minimum-spanning-trees)
 *   [2.10.1Trees: Video]({{< baseurl >}}/pages/structures/tp8-1)
 *   [2.10.2Trees: Many Definitions]({{< baseurl >}}/pages/structures/tp8-1/vertical-91c45efd7596)
 *   [2.10.3Tree Coloring: Video]({{< baseurl >}}/pages/structures/tp8-1/vertical-04923c3ed451)

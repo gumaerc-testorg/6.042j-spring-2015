@@ -1,12 +1,15 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Unit 3: Counting'
+parent_type: CourseSection
 parent_uid: 39106ddf-6e81-10d0-b3ef-0b61eb07512d
 title: 3.5 Pigeonhole Principle, Inclusion-Exclusion
 uid: d45e9517-2acf-2a43-0d67-a0ef15468161
 ---
 
-*   [<Multinomial Theorem: Video]({{< baseurl >}}/pages/counting/tp9-2/vertical-436d8f042056)
+*   [\<Multinomial Theorem: Video]({{< baseurl >}}/pages/counting/tp9-2/vertical-436d8f042056)
 *   [3.5.1The Pigeonhole Principle: Video]({{< baseurl >}}/pages/counting/tp10-1)
 *   [3.5.2Rolling Dice]({{< baseurl >}}/pages/counting/tp10-1/vertical-4e860a9da2fe)
 *   [3.5.3Inclusion-Exclusion Example: Video]({{< baseurl >}}/pages/counting/tp10-1/vertical-6d18e84b97d0)

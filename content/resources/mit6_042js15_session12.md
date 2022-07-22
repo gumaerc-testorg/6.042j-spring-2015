@@ -1,10 +1,24 @@
 ---
 content_type: resource
-description: "This resource contains information regarding mathematics for computer\
-  \ science: GCDs: Chapter 8.1 \u2013 8.5."
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-042j-mathematics-for-computer-science-spring-2015/9697958998608067df0f919a6f5afd46_MIT6_042JS15_Session12.pdf
+description: ''
+draft: ''
+file: /courses/6-042j-mathematics-for-computer-science-spring-2015/mit6_042js15_session12.pdf
 file_type: application/pdf
+image_metadata:
+  caption: ''
+  credit: ''
+  image-alt: ''
+learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: "GCDs: Chapter 8.1 \u2013 8.5"
-uid: 96979589-9860-8067-df0f-919a6f5afd46
+title: MIT6_042JS15_Session12.pdf
+uid: 60bfaae8-ff47-4d0d-853a-c47fb4c59bc6
+video_files:
+  video_captions_file: ''
+  video_thumbnail_file: ''
+  video_transcript_file: ''
+video_metadata:
+  video_speakers: ''
+  video_tags: ''
+  youtube_id: ''
 ---

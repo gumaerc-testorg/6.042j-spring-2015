@@ -1,12 +1,15 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 4.3 Independence & Causality
+parent_type: CourseSection
 parent_uid: 90eace8a-4b31-0417-7362-8667f8f3497b
 title: 4.3 Independence & Causality
 uid: 88c2ead8-56df-d490-9166-d60a3f11e545
 ---
 
-*   [<Mutual Independence: Video]({{< baseurl >}}/pages/probability/tp12-2/vertical-9c80216b7495)
+*   [\<Mutual Independence: Video]({{< baseurl >}}/pages/probability/tp12-2/vertical-9c80216b7495)
 *   [4.3.1Independence: Video]({{< baseurl >}}/pages/probability/tp12-2)
 *   [4.3.2Independent Dice Rolls]({{< baseurl >}}/pages/probability/tp12-2/vertical-8ff8e74ce854)
 *   [4.3.3Mutual Independence: Video]({{< baseurl >}}/pages/probability/tp12-2/vertical-9c80216b7495)

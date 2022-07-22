@@ -1,12 +1,15 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 4.5 Expectation
+parent_type: CourseSection
 parent_uid: 025c498f-3f5e-1c53-924f-7e40eb06a220
 title: 4.5 Expectation
 uid: 90fda877-efb6-3e46-64c0-2e2391cf24bc
 ---
 
-*   [<Great Expectations]({{< baseurl >}}/pages/probability/tp13-1/vertical-88fafb62d4f8)
+*   [\<Great Expectations]({{< baseurl >}}/pages/probability/tp13-1/vertical-88fafb62d4f8)
 *   [4.5.1Expectation: Video]({{< baseurl >}}/pages/probability/tp13-1)
 *   [4.5.2Uneven Dice]({{< baseurl >}}/pages/probability/tp13-1/vertical-d324b518e79a)
 *   [4.5.3Expected Number Of Heads: Video]({{< baseurl >}}/pages/probability/tp13-1/vertical-07d1783f0da3)
@@ -40,7 +43,7 @@ Let \\(X\\) be a random variable with uniform distribution over the integers fro
 4.  True by linearity of expectation, no matter what \\(X\\) and \\(Y\\) are.
 5.  This is tricky. The equation does not hold in general for non-independent \\(X\\) and \\(Y\\). However, in this particular case, it happens to hold. To see this, note that the right hand side is 0, since \\(E\[X\]=0\\). At the same time, the random variable \\(XY=X^3\\). Its PDF is symmetric around 0, so its mean must be 0 as well.
 6.  \\(X\\) and \\(Y\\) are obviously not independent.
-7.  \\(E\[Y\]=\\sum\_{i=0}^n 2i^2\\frac{1}{2n+1} < \\sum\_{i=0}^n 2i^4\\frac{1}{2n+1} = E\[Y^2\]\\).{{< /quiz_solution >}}{{< /quiz_multiple_choice >}}
+7.  \\(E\[Y\]=\\sum\_{i=0}^n 2i^2\\frac{1}{2n+1} \< \\sum\_{i=0}^n 2i^4\\frac{1}{2n+1} = E\[Y^2\]\\).{{< /quiz_solution >}}{{< /quiz_multiple_choice >}}
 
 *   [BackGreat Expectations]({{< baseurl >}}/pages/probability/tp13-1/vertical-88fafb62d4f8)
 *   [ContinueDeviation: Markov & Chebyshev Bounds]({{< baseurl >}}/pages/probability/tp13-2)

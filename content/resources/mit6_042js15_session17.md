@@ -1,10 +1,24 @@
 ---
 content_type: resource
-description: 'This resource contains information regarding mathematics for computer
-  science: Directed acyclic graphs (DAGs) & scheduling: Chapter 9.5.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-042j-mathematics-for-computer-science-spring-2015/55b73ef50001ae2b6425a914a79f8014_MIT6_042JS15_Session17.pdf
+description: ''
+draft: ''
+file: /courses/6-042j-mathematics-for-computer-science-spring-2015/mit6_042js15_session17.pdf
 file_type: application/pdf
+image_metadata:
+  caption: ''
+  credit: ''
+  image-alt: ''
+learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: 'Directed Acyclic Graphs (DAGs) & Scheduling: Chapter 9.5'
-uid: 55b73ef5-0001-ae2b-6425-a914a79f8014
+title: MIT6_042JS15_Session17.pdf
+uid: 8ad378a3-bcc1-439a-b8ed-4be023796eb2
+video_files:
+  video_captions_file: ''
+  video_thumbnail_file: ''
+  video_transcript_file: ''
+video_metadata:
+  video_speakers: ''
+  video_tags: ''
+  youtube_id: ''
 ---

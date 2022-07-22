@@ -1,12 +1,15 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 1.5 Quantifiers & Predicate Logic
+parent_type: CourseSection
 parent_uid: 101f2dc9-8b98-78a0-6c0f-57e750015c84
 title: 1.5 Quantifiers & Predicate Logic
 uid: 7f46d5ad-e35f-7109-89d4-097648a7bead
 ---
 
-*   [<Satisfiability]({{< baseurl >}}/pages/proofs/tp3-1/vertical-071a48267f00)
+*   [\<Satisfiability]({{< baseurl >}}/pages/proofs/tp3-1/vertical-071a48267f00)
 *   [1.5.1Predicate Logic 1: Video]({{< baseurl >}}/pages/proofs/tp3-1)
 *   [1.5.2Predicate Logic 2: Video]({{< baseurl >}}/pages/proofs/tp3-1/vertical-7b4a11771cb1)
 *   [1.5.3Satisfiability]({{< baseurl >}}/pages/proofs/tp3-1/vertical-071a48267f00)

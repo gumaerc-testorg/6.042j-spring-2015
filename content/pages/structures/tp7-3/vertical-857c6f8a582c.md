@@ -1,12 +1,15 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 2.9 Coloring & Connectivity
+parent_type: CourseSection
 parent_uid: 109f4d41-cb88-fdaa-de16-336e6c117167
 title: 2.9 Coloring & Connectivity
 uid: 8d160b87-cb8b-a144-35de-cca9ffc6016e
 ---
 
-*   [<Chromatic Number]({{< baseurl >}}/pages/structures/tp7-3/vertical-312af3a98ad1)
+*   [\<Chromatic Number]({{< baseurl >}}/pages/structures/tp7-3/vertical-312af3a98ad1)
 *   [2.9.1Coloring: Video]({{< baseurl >}}/pages/structures/tp7-3)
 *   [2.9.2Chromatic Number]({{< baseurl >}}/pages/structures/tp7-3/vertical-312af3a98ad1)
 *   [2.9.3Connectivity: Video]({{< baseurl >}}/pages/structures/tp7-3/vertical-857c6f8a582c)

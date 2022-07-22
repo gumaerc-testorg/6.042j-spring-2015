@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Resource Index
 uid: 6d80f058-abf4-04cb-4370-6b5cfc3197ef
 ---
@@ -59,7 +61,7 @@ ASSIGNMENTS
 {{< tdopen >}}
 [Session 1 In-Class Questions (PDF)]({{< baseurl >}}/resources/mit6_042js15_cp1)
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="4" >}}
 [Problem Set 1 (PDF)]({{< baseurl >}}/resources/mit6_042js15_ps1)
 {{< tdclose >}}
 
@@ -168,7 +170,7 @@ ASSIGNMENTS
 {{< tdopen >}}
 [Session 5 In-Class Questions (PDF)]({{< baseurl >}}/resources/mit6_042js15_cp5)
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 [Problem Set 2 (PDF)]({{< baseurl >}}/resources/mit6_042js15_ps2)
 {{< tdclose >}}
 
@@ -221,7 +223,7 @@ ASSIGNMENTS
 {{< tdopen >}}
 [Session 7 In-Class Questions (PDF)]({{< baseurl >}}/resources/mit6_042js15_cp7)
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 [Problem Set 3 (PDF)]({{< baseurl >}}/resources/mit6_042js15_ps3)
 {{< tdclose >}}
 
@@ -276,7 +278,7 @@ ASSIGNMENTS
 {{< tdopen >}}
 [Session 9 In-Class Questions (PDF)]({{< baseurl >}}/resources/mit6_042js15_cp9)
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 [Problem Set 4 (PDF)]({{< baseurl >}}/resources/mit6_042js15_ps4)
 {{< tdclose >}}
 
@@ -373,7 +375,7 @@ ASSIGNMENTS
 {{< tdopen >}}
 [Session 12 In-Class Questions (PDF)]({{< baseurl >}}/resources/mit6_042js15_cp12)
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 [Problem Set 5 (PDF)]({{< baseurl >}}/resources/mit6_042js15_ps5)
 {{< tdclose >}}
 
@@ -448,7 +450,7 @@ ASSIGNMENTS
 {{< tdopen >}}
 [Session 15 In-Class Questions (PDF)]({{< baseurl >}}/resources/mit6_042js15_cp15)
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 [Problem Set 6 (PDF)]({{< baseurl >}}/resources/mit6_042js15_ps6)
 {{< tdclose >}}
 
@@ -501,7 +503,7 @@ ASSIGNMENTS
 {{< tdopen >}}
 [Session 17 In-Class Questions (PDF)]({{< baseurl >}}/resources/mit6_042js15_cp17)
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 [Problem Set 7 (PDF)]({{< baseurl >}}/resources/mit6_042js15_ps7)
 {{< tdclose >}}
 
@@ -580,7 +582,7 @@ ASSIGNMENTS
 {{< tdopen >}}
 [Session 20 In-Class Questions (PDF)]({{< baseurl >}}/resources/mit6_042js15_cp20)
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 [Problem Set 8 (PDF)]({{< baseurl >}}/resources/mit6_042js15_ps8)
 {{< tdclose >}}
 
@@ -675,7 +677,7 @@ ASSIGNMENTS
 {{< tdopen >}}
 [Session 23 In-Class Questions (PDF)]({{< baseurl >}}/resources/mit6_042js15_cp23)
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 [Problem Set 9 (PDF)]({{< baseurl >}}/resources/mit6_042js15_ps9)
 {{< tdclose >}}
 
@@ -728,7 +730,7 @@ ASSIGNMENTS
 {{< tdopen >}}
 [Session 25 In-Class Questions (PDF)]({{< baseurl >}}/resources/mit6_042js15_cp25)
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 [Problem Set 10 (PDF)]({{< baseurl >}}/resources/mit6_042js15_ps10)
 {{< tdclose >}}
 
@@ -817,7 +819,7 @@ ASSIGNMENTS
 {{< tdopen >}}
 [Session 28 In-Class Questions (PDF)]({{< baseurl >}}/resources/mit6_042js15_cp28)
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 [Problem Set 11 (PDF)]({{< baseurl >}}/resources/mit6_042js15_ps11)
 {{< tdclose >}}
 
@@ -872,7 +874,7 @@ ASSIGNMENTS
 {{< tdopen >}}
 [Session 30 In-Class Questions (PDF)]({{< baseurl >}}/resources/mit6_042js15_cp30)
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 [Problem Set 12 (PDF)]({{< baseurl >}}/resources/mit6_042js15_ps12)
 {{< tdclose >}}
 
@@ -959,7 +961,7 @@ ASSIGNMENTS
 {{< tdopen >}}
 [Session 33 In-Class Questions (PDF)]({{< baseurl >}}/resources/mit6_042js15_cp33)
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 No Assignment
 {{< tdclose >}}
 

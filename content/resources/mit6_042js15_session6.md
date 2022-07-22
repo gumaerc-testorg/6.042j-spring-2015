@@ -1,10 +1,24 @@
 ---
 content_type: resource
-description: "This resource contains information regarding mathematics for computer\
-  \ science: Sets: Chapter 4.1 \u2013 4.2."
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-042j-mathematics-for-computer-science-spring-2015/bcb8021cea390090eadc4f3b449b7d87_MIT6_042JS15_Session6.pdf
+description: ''
+draft: ''
+file: /courses/6-042j-mathematics-for-computer-science-spring-2015/mit6_042js15_session6.pdf
 file_type: application/pdf
+image_metadata:
+  caption: ''
+  credit: ''
+  image-alt: ''
+learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: "Sets: Chapter 4.1 \u2013 4.2"
-uid: bcb8021c-ea39-0090-eadc-4f3b449b7d87
+title: MIT6_042JS15_Session6.pdf
+uid: 33d60075-9ead-4962-9750-5d177c9c75a5
+video_files:
+  video_captions_file: ''
+  video_thumbnail_file: ''
+  video_transcript_file: ''
+video_metadata:
+  video_speakers: ''
+  video_tags: ''
+  youtube_id: ''
 ---

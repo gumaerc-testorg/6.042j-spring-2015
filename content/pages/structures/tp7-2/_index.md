@@ -1,12 +1,15 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Unit 2: Structures'
+parent_type: CourseSection
 parent_uid: 20b0a2b7-a262-cb94-efd4-4e9e00511cee
 title: 2.8  Degrees & Isomorphism
 uid: a3d45286-2b82-1913-8b1e-93f45114b315
 ---
 
-*   [<Equivalence Relations & Partial Orders]({{< baseurl >}}/pages/structures/partial-orders-and-equivalence/vertical-d757201744eb)
+*   [\<Equivalence Relations & Partial Orders]({{< baseurl >}}/pages/structures/partial-orders-and-equivalence/vertical-d757201744eb)
 *   [2.8.1Degree: Video]({{< baseurl >}}/pages/structures/tp7-2)
 *   [2.8.2Counting Degrees & Edges]({{< baseurl >}}/pages/structures/tp7-2/vertical-0403a1f6fa4c)
 *   [2.8.3Isomorphism: Video]({{< baseurl >}}/pages/structures/tp7-2/vertical-4cdac51413fd)

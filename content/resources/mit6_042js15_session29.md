@@ -1,10 +1,24 @@
 ---
 content_type: resource
-description: "This resource contains information regarding mathematics for computer\
-  \ science: Conditional probability: Chapter 17.1 \u2013 17.5."
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-042j-mathematics-for-computer-science-spring-2015/ab4ed52747f917d73ec254fdad32f39f_MIT6_042JS15_Session29.pdf
+description: ''
+draft: ''
+file: /courses/6-042j-mathematics-for-computer-science-spring-2015/mit6_042js15_session29.pdf
 file_type: application/pdf
+image_metadata:
+  caption: ''
+  credit: ''
+  image-alt: ''
+learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: "Conditional Probability: Chapter 17.1 \u2013 17.5"
-uid: ab4ed527-47f9-17d7-3ec2-54fdad32f39f
+title: MIT6_042JS15_Session29.pdf
+uid: c6dfd05c-1314-423b-a3c6-4b766b02fd06
+video_files:
+  video_captions_file: ''
+  video_thumbnail_file: ''
+  video_transcript_file: ''
+video_metadata:
+  video_speakers: ''
+  video_tags: ''
+  youtube_id: ''
 ---

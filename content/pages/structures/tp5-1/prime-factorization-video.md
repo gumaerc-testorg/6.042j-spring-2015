@@ -1,12 +1,15 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 2.1  GCDs
+parent_type: CourseSection
 parent_uid: 40569305-3755-e5d6-fb1b-1e2592fa311e
 title: 2.1  GCDs
 uid: 51dcf330-92f4-3e02-1cae-3d73b71b0ad3
 ---
 
-*   [<Revisiting Die Hard: Video]({{< baseurl >}}/pages/structures/tp5-1/revisiting-die-hard-video)
+*   [\<Revisiting Die Hard: Video]({{< baseurl >}}/pages/structures/tp5-1/revisiting-die-hard-video)
 *   [2.1.1GCDs & Linear Combinations: Video]({{< baseurl >}}/pages/structures/tp5-1)
 *   [2.1.2Euclidean Algorithm: Video]({{< baseurl >}}/pages/structures/tp5-1/euclidean-algorithm-video)
 *   [2.1.3Run Euclid Run]({{< baseurl >}}/pages/structures/tp5-1/vertical-b30047e37cc7)

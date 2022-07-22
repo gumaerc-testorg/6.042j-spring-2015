@@ -1,10 +1,24 @@
 ---
 content_type: resource
-description: "This resource contains information regarding mathematics for computer\
-  \ science: Trees: Chapter 11.9 \u2013 11.10."
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-042j-mathematics-for-computer-science-spring-2015/dfa2be0e610ddb133986368515c74823_MIT6_042JS15_Session21.pdf
+description: ''
+draft: ''
+file: /courses/6-042j-mathematics-for-computer-science-spring-2015/mit6_042js15_session21.pdf
 file_type: application/pdf
+image_metadata:
+  caption: ''
+  credit: ''
+  image-alt: ''
+learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: "Trees: Chapter 11.9 \u2013 11.10"
-uid: dfa2be0e-610d-db13-3986-368515c74823
+title: MIT6_042JS15_Session21.pdf
+uid: 691d502c-0f3c-4af7-b295-ffa4adc5578f
+video_files:
+  video_captions_file: ''
+  video_thumbnail_file: ''
+  video_transcript_file: ''
+video_metadata:
+  video_speakers: ''
+  video_tags: ''
+  youtube_id: ''
 ---

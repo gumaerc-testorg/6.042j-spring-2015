@@ -1,12 +1,15 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Unit 2: Structures'
+parent_type: CourseSection
 parent_uid: 20b0a2b7-a262-cb94-efd4-4e9e00511cee
 title: 2.10 Trees
 uid: cbeb9c37-cb9c-a67c-cf21-6c0b8aeab325
 ---
 
-*   [<Connected Components in Integers]({{< baseurl >}}/pages/structures/tp7-3/vertical-fef93eac28bc)
+*   [\<Connected Components in Integers]({{< baseurl >}}/pages/structures/tp7-3/vertical-fef93eac28bc)
 *   [2.10.1Trees: Video]({{< baseurl >}}/pages/structures/tp8-1)
 *   [2.10.2Trees: Many Definitions]({{< baseurl >}}/pages/structures/tp8-1/vertical-91c45efd7596)
 *   [2.10.3Tree Coloring: Video]({{< baseurl >}}/pages/structures/tp8-1/vertical-04923c3ed451)

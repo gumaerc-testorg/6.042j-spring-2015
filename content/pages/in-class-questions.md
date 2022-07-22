@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: In-Class Questions
 uid: 751443e0-4110-d1d9-57e6-e5a847c9853e
 ---

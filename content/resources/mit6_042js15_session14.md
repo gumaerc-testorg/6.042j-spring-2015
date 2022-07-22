@@ -1,10 +1,24 @@
 ---
 content_type: resource
-description: 'This resource contains information regarding mathematics for computer
-  science: Euler''s theorem: Chapter 8.10.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-042j-mathematics-for-computer-science-spring-2015/1ffa194ad7f5a19411ceb6a18647c036_MIT6_042JS15_Session14.pdf
+description: ''
+draft: ''
+file: /courses/6-042j-mathematics-for-computer-science-spring-2015/mit6_042js15_session14.pdf
 file_type: application/pdf
+image_metadata:
+  caption: ''
+  credit: ''
+  image-alt: ''
+learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: 'Euler''s Theorem: Chapter 8.10'
-uid: 1ffa194a-d7f5-a194-11ce-b6a18647c036
+title: MIT6_042JS15_Session14.pdf
+uid: af60f47a-6498-4df4-b1d4-26d504e8d31a
+video_files:
+  video_captions_file: ''
+  video_thumbnail_file: ''
+  video_transcript_file: ''
+video_metadata:
+  video_speakers: ''
+  video_tags: ''
+  youtube_id: ''
 ---

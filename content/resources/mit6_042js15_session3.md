@@ -1,10 +1,24 @@
 ---
 content_type: resource
-description: "This resource contains information regarding mathematics for computer\
-  \ science: Well ordering principle: Chapter 2.1 \u2013 2.3."
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-042j-mathematics-for-computer-science-spring-2015/e998dc8f0e9f1624f02c4740799d72a1_MIT6_042JS15_Session3.pdf
+description: ''
+draft: ''
+file: /courses/6-042j-mathematics-for-computer-science-spring-2015/mit6_042js15_session3.pdf
 file_type: application/pdf
+image_metadata:
+  caption: ''
+  credit: ''
+  image-alt: ''
+learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: "Well Ordering Principle: Chapter 2.1 \u2013 2.3"
-uid: e998dc8f-0e9f-1624-f02c-4740799d72a1
+title: MIT6_042JS15_Session3.pdf
+uid: 5db3f205-e8d9-4b63-81b3-37f91ddd6da0
+video_files:
+  video_captions_file: ''
+  video_thumbnail_file: ''
+  video_transcript_file: ''
+video_metadata:
+  video_speakers: ''
+  video_tags: ''
+  youtube_id: ''
 ---

@@ -1,12 +1,15 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Unit 4: Probability'
+parent_type: CourseSection
 parent_uid: 90a207e8-2f8b-3b13-6906-7b58f9c6f169
 title: 4.2 Conditional Probability
 uid: 79ebde2b-537e-9e26-dc39-d5d2e1c8f1d9
 ---
 
-*   [<Fun With Coins]({{< baseurl >}}/pages/probability/tp11-2/vertical-a2b75a4824b8)
+*   [\<Fun With Coins]({{< baseurl >}}/pages/probability/tp11-2/vertical-a2b75a4824b8)
 *   [4.2.1Conditional Probability Definitions: Video]({{< baseurl >}}/pages/probability/tp12-1)
 *   [4.2.2Dicey Sum]({{< baseurl >}}/pages/probability/tp12-1/vertical-c84a5906e76d)
 *   [4.2.3Law of Total Probability: Video]({{< baseurl >}}/pages/probability/tp12-1/vertical-4689ff047559)

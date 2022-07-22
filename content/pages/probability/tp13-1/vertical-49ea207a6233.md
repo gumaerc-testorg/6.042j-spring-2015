@@ -1,12 +1,15 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 4.5 Expectation
+parent_type: CourseSection
 parent_uid: 025c498f-3f5e-1c53-924f-7e40eb06a220
 title: 4.5 Expectation
 uid: 726b3c5f-6c9f-3677-6c3f-c0f1fc6c579a
 ---
 
-*   [<Three Machines Failing]({{< baseurl >}}/pages/probability/tp13-1/vertical-f2cac6de0392)
+*   [\<Three Machines Failing]({{< baseurl >}}/pages/probability/tp13-1/vertical-f2cac6de0392)
 *   [4.5.1Expectation: Video]({{< baseurl >}}/pages/probability/tp13-1)
 *   [4.5.2Uneven Dice]({{< baseurl >}}/pages/probability/tp13-1/vertical-d324b518e79a)
 *   [4.5.3Expected Number Of Heads: Video]({{< baseurl >}}/pages/probability/tp13-1/vertical-07d1783f0da3)

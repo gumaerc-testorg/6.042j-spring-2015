@@ -1,10 +1,24 @@
 ---
 content_type: resource
-description: "This resource contains information regarding mathematics for computer\
-  \ science: Binary relations: Chapter 4.3 \u2013 4.5."
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-042j-mathematics-for-computer-science-spring-2015/87aa94c31fb4dbef4174591076429826_MIT6_042JS15_Session7.pdf
+description: ''
+draft: ''
+file: /courses/6-042j-mathematics-for-computer-science-spring-2015/mit6_042js15_session7.pdf
 file_type: application/pdf
+image_metadata:
+  caption: ''
+  credit: ''
+  image-alt: ''
+learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: "Binary Relations: Chapter 4.3 \u2013 4.5"
-uid: 87aa94c3-1fb4-dbef-4174-591076429826
+title: MIT6_042JS15_Session7.pdf
+uid: 34972fc2-85e7-4002-8c9f-e7df3ea728e0
+video_files:
+  video_captions_file: ''
+  video_thumbnail_file: ''
+  video_transcript_file: ''
+video_metadata:
+  video_speakers: ''
+  video_tags: ''
+  youtube_id: ''
 ---

@@ -1,12 +1,15 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 3.5 Pigeonhole Principle, Inclusion-Exclusion
+parent_type: CourseSection
 parent_uid: d45e9517-2acf-2a43-0d67-a0ef15468161
 title: 3.5 Pigeonhole Principle, Inclusion-Exclusion
 uid: 8b8f07f9-fe87-ac72-842c-6bed4c014e7d
 ---
 
-*   [<Rolling Dice]({{< baseurl >}}/pages/counting/tp10-1/vertical-4e860a9da2fe)
+*   [\<Rolling Dice]({{< baseurl >}}/pages/counting/tp10-1/vertical-4e860a9da2fe)
 *   [3.5.1The Pigeonhole Principle: Video]({{< baseurl >}}/pages/counting/tp10-1)
 *   [3.5.2Rolling Dice]({{< baseurl >}}/pages/counting/tp10-1/vertical-4e860a9da2fe)
 *   [3.5.3Inclusion-Exclusion Example: Video]({{< baseurl >}}/pages/counting/tp10-1/vertical-6d18e84b97d0)

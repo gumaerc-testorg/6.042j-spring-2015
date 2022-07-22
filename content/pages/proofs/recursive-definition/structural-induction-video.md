@@ -1,12 +1,15 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 1.10 Recursive Definition
+parent_type: CourseSection
 parent_uid: dc6ecd4f-10b9-4f9f-9744-a385e4bab210
 title: 1.10 Recursive Definition
 uid: 4d13ab6c-1f82-b729-3b6c-5d3cde131d62
 ---
 
-*   [<Functions of F18]({{< baseurl >}}/pages/proofs/recursive-definition/functions-of-f18)
+*   [\<Functions of F18]({{< baseurl >}}/pages/proofs/recursive-definition/functions-of-f18)
 *   [1.10.1Recursive Data: Video]({{< baseurl >}}/pages/proofs/recursive-definition)
 *   [1.10.2Matching Parentheses]({{< baseurl >}}/pages/proofs/recursive-definition/matching-parentheses)
 *   [1.10.3Functions of F18]({{< baseurl >}}/pages/proofs/recursive-definition/functions-of-f18)

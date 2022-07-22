@@ -1,12 +1,15 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 2.10 Trees
+parent_type: CourseSection
 parent_uid: cbeb9c37-cb9c-a67c-cf21-6c0b8aeab325
 title: 2.10 Trees
 uid: c7f2521e-8a2b-dbb6-52a3-411f0df14ab4
 ---
 
-*   [<Leaves]({{< baseurl >}}/pages/structures/tp8-1/vertical-425ace1eec7d)
+*   [\<Leaves]({{< baseurl >}}/pages/structures/tp8-1/vertical-425ace1eec7d)
 *   [2.10.1Trees: Video]({{< baseurl >}}/pages/structures/tp8-1)
 *   [2.10.2Trees: Many Definitions]({{< baseurl >}}/pages/structures/tp8-1/vertical-91c45efd7596)
 *   [2.10.3Tree Coloring: Video]({{< baseurl >}}/pages/structures/tp8-1/vertical-04923c3ed451)

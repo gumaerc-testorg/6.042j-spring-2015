@@ -1,10 +1,24 @@
 ---
 content_type: resource
-description: "This resource contains information regarding mathematics for computer\
-  \ science: Logic & propositions: Chapter 3.1 \u2013 3.5."
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-042j-mathematics-for-computer-science-spring-2015/a75fe9634de5c9364fee309ddd724b90_MIT6_042JS15_Session4.pdf
+description: ''
+draft: ''
+file: /courses/6-042j-mathematics-for-computer-science-spring-2015/mit6_042js15_session4.pdf
 file_type: application/pdf
+image_metadata:
+  caption: ''
+  credit: ''
+  image-alt: ''
+learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: "Logic & Propositions: Chapter 3.1 \u2013 3.5"
-uid: a75fe963-4de5-c936-4fee-309ddd724b90
+title: MIT6_042JS15_Session4.pdf
+uid: 87af77e2-8c14-4e0a-b84f-e00b252930c8
+video_files:
+  video_captions_file: ''
+  video_thumbnail_file: ''
+  video_transcript_file: ''
+video_metadata:
+  video_speakers: ''
+  video_tags: ''
+  youtube_id: ''
 ---

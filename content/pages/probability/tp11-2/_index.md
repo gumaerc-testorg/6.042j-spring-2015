@@ -1,12 +1,15 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Unit 4: Probability'
+parent_type: CourseSection
 parent_uid: 90a207e8-2f8b-3b13-6906-7b58f9c6f169
 title: 4.1 Intro to Discrete Probability
 uid: 4414c612-ae42-4c73-7466-f4715f85e319
 ---
 
-*   [<Probability]({{< baseurl >}}/pages/probability)
+*   [\<Probability]({{< baseurl >}}/pages/probability)
 *   [4.1.1Tree Model: Video]({{< baseurl >}}/pages/probability/tp11-2)
 *   [4.1.2Socks and Shoes]({{< baseurl >}}/pages/probability/tp11-2/vertical-dcc88d262213)
 *   [4.1.3Simplified Monty Hall Tree: Video]({{< baseurl >}}/pages/probability/tp11-2/vertical-65858dc50455)

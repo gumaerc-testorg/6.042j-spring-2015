@@ -1,12 +1,15 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Unit 3: Counting'
+parent_type: CourseSection
 parent_uid: 39106ddf-6e81-10d0-b3ef-0b61eb07512d
 title: 3.2 Asymptotics
 uid: 7fcb0761-6e29-48a6-ad10-caa832263c78
 ---
 
-*   [<Sum's Upper Lower Bounds]({{< baseurl >}}/pages/counting/tp8-2/vertical-9f131aae203e)
+*   [\<Sum's Upper Lower Bounds]({{< baseurl >}}/pages/counting/tp8-2/vertical-9f131aae203e)
 *   [3.2.1Asymptotic Notation: Video]({{< baseurl >}}/pages/counting/tp8-3)
 *   [3.2.2Asymptotics as Relations]({{< baseurl >}}/pages/counting/tp8-3/vertical-3800c4b1c397)
 *   [3.2.3Asymptotic Properties: Video]({{< baseurl >}}/pages/counting/tp8-3/vertical-e35ce9684389)

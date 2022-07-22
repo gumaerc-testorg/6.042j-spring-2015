@@ -1,12 +1,15 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Unit 2: Structures'
+parent_type: CourseSection
 parent_uid: 20b0a2b7-a262-cb94-efd4-4e9e00511cee
 title: 2.2  Congruences
 uid: 30a0182e-39fc-2a66-241e-fb67db839b1d
 ---
 
-*   [<GCDs II]({{< baseurl >}}/pages/structures/tp5-1/vertical-912ad2b397a4)
+*   [\<GCDs II]({{< baseurl >}}/pages/structures/tp5-1/vertical-912ad2b397a4)
 *   [2.2.1Congruence mod n: Video]({{< baseurl >}}/pages/structures/tp5-2)
 *   [2.2.2Divisibility and Congruence]({{< baseurl >}}/pages/structures/tp5-2/vertical-d0520d30ae3f)
 *   [2.2.3Inverses mod n: Video]({{< baseurl >}}/pages/structures/tp5-2/vertical-5a82e8c3077d)

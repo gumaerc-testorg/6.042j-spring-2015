@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-042j-mathematics-for-computer-science-spring-2015/37742e770cb1630234923b3cb6d7dd60_51-b2mgZVNY.pdf
+file: /media/courses/6-042j-mathematics-for-computer-science-spring-2015/37742e770cb1630234923b3cb6d7dd60_51-b2mgZVNY.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Document
 title: 3play pdf file
 uid: 37742e77-0cb1-6302-3492-3b3cb6d7dd60

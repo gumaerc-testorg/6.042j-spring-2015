@@ -1,12 +1,15 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 3.1 Sums & Products
+parent_type: CourseSection
 parent_uid: 93998ab0-0443-52e8-5efc-b877380e8e28
 title: 3.1 Sums & Products
 uid: 8de8c902-9963-49cb-0873-a6ff1a10a492
 ---
 
-*   [<Annuities]({{< baseurl >}}/pages/counting/tp8-2/vertical-7019fdda010c)
+*   [\<Annuities]({{< baseurl >}}/pages/counting/tp8-2/vertical-7019fdda010c)
 *   [3.1.1Arithmetic Sums: Video]({{< baseurl >}}/pages/counting/tp8-2)
 *   [3.1.2Perturbation by Young Gauss]({{< baseurl >}}/pages/counting/tp8-2/vertical-56598c481e1a)
 *   [3.1.3Geometric Sums: Video]({{< baseurl >}}/pages/counting/tp8-2/vertical-46a80f3884d6)

@@ -1,10 +1,24 @@
 ---
 content_type: resource
-description: "This resource contains information regarding mathematics for computer\
-  \ science: Random variables, density functions: Chapter 18.1 \u2013 18.3."
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-042j-mathematics-for-computer-science-spring-2015/32f3ba52f980a7b2ca451c9eef93a090_MIT6_042JS15_Session31.pdf
+description: ''
+draft: ''
+file: /courses/6-042j-mathematics-for-computer-science-spring-2015/mit6_042js15_session31.pdf
 file_type: application/pdf
+image_metadata:
+  caption: ''
+  credit: ''
+  image-alt: ''
+learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: "Random Variables, Density Functions: Chapter 18.1 \u2013 18.3"
-uid: 32f3ba52-f980-a7b2-ca45-1c9eef93a090
+title: MIT6_042JS15_Session31.pdf
+uid: 765865ff-b9e4-4860-979a-7cc68eaa26f4
+video_files:
+  video_captions_file: ''
+  video_thumbnail_file: ''
+  video_transcript_file: ''
+video_metadata:
+  video_speakers: ''
+  video_tags: ''
+  youtube_id: ''
 ---
