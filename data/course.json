@@ -18,7 +18,7 @@
       "Probability and Statistics"
     ]
   ],
-  "legacy_uid": "923b3b5f-3601-3f7b-0a69-f560895e68fb",
+  "legacy_uid": "",
   "instructors": {
     "content": [
       "98ac3637-077b-4114-a6e7-bc8eb998e2e3",
@@ -27,11 +27,11 @@
     "website": "ocw-www"
   },
   "course_image": {
-    "content": "bf5ded22-92dd-7af1-4f94-2dfa6ad4f96c",
-    "website": "6-042j-mathematics-for-computer-science-spring-2015"
+    "content": "ea9f7e23-2ef1-4276-b6fd-7c3a17ba57af",
+    "website": "mathematics-for-computer-science"
   },
   "course_title": "Mathematics for Computer Science",
-  "course_description": "This subject offers an interactive introduction to discrete mathematics oriented toward computer science and engineering. The subject coverage divides roughly into thirds:\n\n1.  Fundamental concepts of mathematics: Definitions, proofs, sets, functions, relations.\n2.  Discrete structures: graphs, state machines, modular arithmetic, counting.\n3.  Discrete probability theory.\n\nOn completion of 6.042J, students will be able to explain and apply the basic methods of discrete (noncontinuous) mathematics in computer science. They will be able to use these methods in subsequent courses in the design and analysis of algorithms, computability theory, software engineering, and computer systems.\n\nInteractive site components can be found on the Unit pages in the left-hand navigational bar, starting with [Unit 1: Proofs](pages/proofs).\n",
+  "course_description": "This subject offers an interactive introduction to discrete mathematics oriented toward computer science and engineering. The subject coverage divides roughly into thirds:\n\n1. Fundamental concepts of mathematics: Definitions, proofs, sets, functions, relations.\n2. Discrete structures: graphs, state machines, modular arithmetic, counting.\n3. Discrete probability theory.\n\nOn completion of 6.042J, students will be able to explain and apply the basic methods of discrete (noncontinuous) mathematics in computer science. They will be able to use these methods in subsequent courses in the design and analysis of algorithms, computability theory, software engineering, and computer systems.\n\nThis course is part of the [Open Learning Library](https://openlearning.mit.edu/courses-programs/open-learning-library), which is free to use.\u00a0You have the option to sign up and enroll in the course if you want to track your progress, or you can view and use all the materials without enrolling.",
   "department_numbers": [
     "6",
     "18"
@@ -39,16 +39,16 @@
   "extra_course_numbers": "18.062J",
   "primary_course_number": "6.042J",
   "course_image_thumbnail": {
-    "content": "b07562f0-da64-c024-954d-8f111ed4641f",
-    "website": "6-042j-mathematics-for-computer-science-spring-2015"
+    "content": "52d44bad-9e3b-4147-8bfb-c999c5937513",
+    "website": "mathematics-for-computer-science"
   },
   "learning_resource_types": [
+    "Online Textbook",
     "Lecture Videos",
-    "Problem Sets",
-    "Exams",
     "Lecture Notes",
-    "Online Textbook"
+    "Problem Sets",
+    "Exams"
   ],
-  "site_uid": "fc075abe-e5cd-48ef-9165-67792f956f77",
-  "title": "Course Metadata"
+  "site_uid": "f1644e3d-e113-4bcb-85ad-53b17be68e6c",
+  "site_short_id": "6.042j-spring-2015"
 }
