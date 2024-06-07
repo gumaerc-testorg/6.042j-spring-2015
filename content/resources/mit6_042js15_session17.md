@@ -3,7 +3,7 @@ content_type: resource
 description: ''
 draft: false
 file: /courses/6-042j-mathematics-for-computer-science-spring-2015/mit6_042js15_session17.pdf
-file_size: ''
+file_size: 753737
 file_type: application/pdf
 image_metadata:
   caption: ''
