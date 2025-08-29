@@ -43,12 +43,13 @@
     "website": "mathematics-for-computer-science"
   },
   "learning_resource_types": [
-    "Online Textbook",
+    "Open Textbooks",
     "Lecture Videos",
     "Lecture Notes",
     "Problem Sets",
     "Exams"
   ],
   "site_uid": "f1644e3d-e113-4bcb-85ad-53b17be68e6c",
-  "site_short_id": "6.042j-spring-2015"
+  "site_short_id": "6.042j-spring-2015",
+  "site_url_path": "courses/6-042j-mathematics-for-computer-science-spring-2015"
 }

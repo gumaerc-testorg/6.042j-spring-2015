@@ -2,7 +2,7 @@
 content_type: resource
 description: ''
 draft: false
-file: courses/mathematics-for-computer-science/mit6_042js15_session4.pdf
+file: /ol-ocw-studio-app/courses/6-042j-mathematics-for-computer-science-spring-2015/mit6_042js15_session4.pdf
 file_size: 427386
 file_type: application/pdf
 image_metadata:
@@ -10,7 +10,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Online Textbook
+- Open Textbooks
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
 title: MIT6_042JS15_Session4.pdf
